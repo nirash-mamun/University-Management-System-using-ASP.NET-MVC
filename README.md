@@ -1,5 +1,3 @@
-Hello Friend, 
-
 
 
 # University-Management-System-using-ASP.NET-MVC
