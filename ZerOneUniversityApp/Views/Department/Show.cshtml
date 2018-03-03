@@ -1,0 +1,42 @@
+﻿
+@using ZerOneUniversityApp.Models
+@model ZerOneUniversityApp.Models.Department
+
+@{
+    ViewBag.Title = "Show All Department";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+    }
+@{
+    List<Department> departments = ViewBag.DepartmentList;
+}
+<html>
+    <body>
+        <div class="form-group">
+            <h2 class="text-center">View All Department</h2>
+            <p class="text-center">
+                @Html.ActionLink("Add Department", "Save")
+            </p>
+            <hr/>
+            <div class="col-md-offset-2 col-md-10" class="table-responsive">
+                <fieldset>
+                    <legend>
+                        <table class="table table-bordered table-hover">
+                            <tr>
+                                <th>Code</th>
+                                <th>Name</th>
+                            </tr>
+                            @foreach (Department aDepartment in departments)
+                            {
+                                <tr>
+                                    <td class="success">@aDepartment.DeptCode</td>
+                                    <td class="danger">@aDepartment.DeptName</td>
+                                </tr>
+                            }
+                        </table>
+                    </legend>
+                </fieldset>
+                <hr>
+            </div>
+        </div>
+    </body>
+</html>

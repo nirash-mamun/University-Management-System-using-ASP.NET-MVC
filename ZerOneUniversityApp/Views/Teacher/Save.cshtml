@@ -1,0 +1,114 @@
+﻿@model ZerOneUniversityApp.Models.Teacher
+
+@{
+    ViewBag.Title = "Create";
+}
+
+<h2 class="text-center">Save Teacher</h2>
+<div align="center">
+    @if (@ViewBag.Message != null)
+    {
+        <span class="alert alert-success" id="success-alert">@ViewBag.Message</span>
+    }
+</div>
+
+@using (Html.BeginForm()) 
+{
+    @Html.AntiForgeryToken()
+    
+    <div class="form-horizontal">
+       
+        <hr />
+        @Html.ValidationSummary(true)
+
+        <div class="form-group">
+            @Html.LabelFor(model => model.TeacherName, new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                @Html.TextBoxFor(model => model.TeacherName, new { @class = "form-control" })
+                @Html.ValidationMessageFor(model => model.TeacherName)
+            </div>
+        </div>
+
+        <div class="form-group">
+            @Html.LabelFor(model => model.TeacherAddress, new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                @Html.TextAreaFor(model => model.TeacherAddress, new { @class = "form-control" })
+                @Html.ValidationMessageFor(model => model.TeacherAddress)
+            </div>
+        </div>
+
+        <div class="form-group">
+            @Html.LabelFor(model => model.TeacherEmail, new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                @Html.TextBoxFor(model => model.TeacherEmail, new { @class = "form-control" })
+                @Html.ValidationMessageFor(model => model.TeacherEmail)
+            </div>
+        </div>
+
+        <div class="form-group">
+            @Html.LabelFor(model => model.TeacherContactNo, new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                @Html.TextBoxFor(model => model.TeacherContactNo, new { @class = "form-control" })
+                @Html.ValidationMessageFor(model => model.TeacherContactNo)
+            </div>
+        </div>
+
+        <div class="form-group">
+            @Html.LabelFor(model => model.DesignationId, "Designation", new { @class = "control-label col-md-2" })
+            <div class="col-md-10 input-lg">
+                @Html.DropDownList("DesignationId", "Select Designation")
+                @Html.ValidationMessageFor(model => model.DesignationId)
+            </div>
+        </div>
+
+        <div class="form-group">
+            @Html.LabelFor(model => model.DepartmentId, "Department", new { @class = "control-label col-md-2" })
+            <div class="col-md-10 input-lg">
+                @Html.DropDownList("DepartmentId", "Select Department")
+                @Html.ValidationMessageFor(model => model.DepartmentId)
+            </div>
+        </div>
+
+        <div class="form-group">
+            @Html.LabelFor(model => model.CreditTaken, new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                @Html.TextBoxFor(model => model.CreditTaken, new { @class = "form-control" })
+                @Html.ValidationMessageFor(model => model.CreditTaken)
+            </div>
+        </div>
+
+        <div class="form-group">
+            <div class="col-md-offset-2 col-md-10">
+                <input type="submit" value="Register Teacher" class="btn btn-primary btn-sm" />
+            </div>
+        </div>
+    </div>
+}
+
+<div>
+    @Html.ActionLink("Back to List", "Index")
+</div>
+
+@section Scripts {
+    
+<script src="~/Scripts/jquery-2.2.4.js"></script>
+<script src="~/Scripts/jquery.validate.js"></script>
+<script src="~/Scripts/jquery.validate.unobtrusive.js"></script>
+
+    @Scripts.Render("~/bundles/jqueryval")
+<script>
+
+    $(document).ready(function () {
+
+        $("#success-alert").fadeTo(2000, 500).slideUp(500, function () {
+            $("#success-alert").alert('close');
+        });
+
+        $("#submit").click(function () {
+        });
+
+    });
+
+</script>
+
+}

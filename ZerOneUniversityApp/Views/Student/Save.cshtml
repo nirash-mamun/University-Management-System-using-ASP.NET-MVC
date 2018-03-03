@@ -1,0 +1,134 @@
+﻿@model ZerOneUniversityApp.Models.Student
+
+@{
+    ViewBag.Title = "Register Student";
+}
+
+<h2 class="text-center">Register Student</h2>
+<div align="center">
+    @if (@ViewBag.Message != null)
+    {
+        <span class="alert alert-success" id="success-alert">@ViewBag.Message</span>
+    }
+</div>
+
+@using (Html.BeginForm()) 
+{
+    @Html.AntiForgeryToken()
+    
+    <div class="form-horizontal">
+        
+        <hr />
+        @Html.ValidationSummary(true)
+
+        <div class="form-group">
+            @Html.LabelFor(model => model.Name, new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                @Html.TextBoxFor(model => model.Name, new { @class = "form-control" })
+                @Html.ValidationMessageFor(model => model.Name)
+            </div>
+        </div>
+
+        <div class="form-group">
+            @Html.LabelFor(model => model.Email, new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                @Html.TextBoxFor(model => model.Email, new { @class = "form-control" })
+                @Html.ValidationMessageFor(model => model.Email)
+            </div>
+        </div>
+
+        <div class="form-group">
+            @Html.LabelFor(model => model.ContactNo, new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                @Html.TextBoxFor(model => model.ContactNo, new { @class = "form-control" })
+                @Html.ValidationMessageFor(model => model.ContactNo)
+            </div>
+        </div>
+        <div class="form-group">
+            @Html.LabelFor(model => model.Date, "Date", new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+
+                <input type="date" class="form-control" id="Date" name="Date" /><label id="dateErrorMessage" style="color: red;"></label>
+            </div>
+        </div>
+        <div class="form-group">
+            @Html.LabelFor(model => model.Address, new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                @Html.TextAreaFor(model => model.Address,new { @class = "form-control" })
+                @Html.ValidationMessageFor(model => model.Address)
+            </div>
+        </div>
+
+        <div class="form-group">
+            @Html.LabelFor(model => model.DepartmentId, "Department", new { @class = "control-label col-md-2" })
+            <div class="col-md-10 input-lg dropdown-toggle">
+                @Html.DropDownList("DepartmentId","Select Department")
+                @Html.ValidationMessageFor(model => model.DepartmentId)
+            </div>
+        </div>
+
+        <div class="form-group">
+            <div class="col-md-offset-2 col-md-10">
+                <input type="submit" value="Register Student" class="btn btn-primary btn-sm" />
+            </div>
+        </div>
+    </div>
+}
+
+<div>
+    @Html.ActionLink("Show All Student", "Index")
+</div>
+
+@section Scripts {
+    
+<script src="~/Scripts/jquery-2.2.4.js"></script>
+<script src="~/Scripts/jquery.validate.js"></script>
+<script src="~/Scripts/jquery.validate.unobtrusive.js"></script>
+
+    @Scripts.Render("~/bundles/jqueryval")
+
+    <script>
+        $(document).ready(function () {
+
+            $("#success-alert").fadeTo(2000, 500).slideUp(500, function () {
+                $("#success-alert").alert('close');
+            });
+
+            $("#submit").click(function () {
+            });
+
+        });
+
+        $("#submit").click(function () {
+            var departmentId = $("#departmentId").val();
+            if (departmentId == 0) {
+                $("#departmentErroMessage").text("Select One Department!");
+                errorValue = 1;
+
+            }
+
+
+                $("#enrollSucessMessage").text("");
+                $("#enrollErrorMessage").text("");
+
+                var regNo = $("#registrationId").val();
+                if (regNo == "") {
+                    $("#registrationIdErrorMessage").text("Select Your Registration No");
+                    return false;
+                }
+                var date = $("#lDate").val();
+                if (date == "") {
+                    // alert("Select Date");
+
+                    $("#dateErrorMessage").text("Select Date");
+                    return false;
+                }
+                var courseId = $("#courseId").val();
+
+                if (courseId == "") {
+                    $("#courseIdErrorMessage").text("Select a Course");
+                }
+            });
+            </script>
+}
+    

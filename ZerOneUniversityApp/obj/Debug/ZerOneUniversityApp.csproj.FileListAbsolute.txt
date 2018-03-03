@@ -1,0 +1,701 @@
+E:\VSW\ZerOneUniversityApp\ZerOneUniversityApp\bin\ZerOneUniversityApp.dll.config
+E:\VSW\ZerOneUniversityApp\ZerOneUniversityApp\bin\ZerOneUniversityApp.dll
+E:\VSW\ZerOneUniversityApp\ZerOneUniversityApp\bin\ZerOneUniversityApp.pdb
+E:\VSW\ZerOneUniversityApp\ZerOneUniversityApp\bin\Antlr3.Runtime.dll
+E:\VSW\ZerOneUniversityApp\ZerOneUniversityApp\bin\EntityFramework.dll
+E:\VSW\ZerOneUniversityApp\ZerOneUniversityApp\bin\EntityFramework.SqlServer.dll
+E:\VSW\ZerOneUniversityApp\ZerOneUniversityApp\bin\Microsoft.AspNet.Identity.Core.dll
+E:\VSW\ZerOneUniversityApp\ZerOneUniversityApp\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\VSW\ZerOneUniversityApp\ZerOneUniversityApp\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\VSW\ZerOneUniversityApp\ZerOneUniversityApp\bin\Microsoft.Owin.dll
+E:\VSW\ZerOneUniversityApp\ZerOneUniversityApp\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\VSW\ZerOneUniversityApp\ZerOneUniversityApp\bin\Microsoft.Owin.Security.Cookies.dll
+E:\VSW\ZerOneUniversityApp\ZerOneUniversityApp\bin\Microsoft.Owin.Security.dll
+E:\VSW\ZerOneUniversityApp\ZerOneUniversityApp\bin\Microsoft.Owin.Security.Facebook.dll
+E:\VSW\ZerOneUniversityApp\ZerOneUniversityApp\bin\Microsoft.Owin.Security.Google.dll
+E:\VSW\ZerOneUniversityApp\ZerOneUniversityApp\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+E:\VSW\ZerOneUniversityApp\ZerOneUniversityApp\bin\Microsoft.Owin.Security.OAuth.dll
+E:\VSW\ZerOneUniversityApp\ZerOneUniversityApp\bin\Microsoft.Owin.Security.Twitter.dll
+E:\VSW\ZerOneUniversityApp\ZerOneUniversityApp\bin\Microsoft.Web.Infrastructure.dll
+E:\VSW\ZerOneUniversityApp\ZerOneUniversityApp\bin\Newtonsoft.Json.dll
+E:\VSW\ZerOneUniversityApp\ZerOneUniversityApp\bin\Owin.dll
+E:\VSW\ZerOneUniversityApp\ZerOneUniversityApp\bin\System.Web.Helpers.dll
+E:\VSW\ZerOneUniversityApp\ZerOneUniversityApp\bin\System.Web.Mvc.dll
+E:\VSW\ZerOneUniversityApp\ZerOneUniversityApp\bin\System.Web.Optimization.dll
+E:\VSW\ZerOneUniversityApp\ZerOneUniversityApp\bin\System.Web.Razor.dll
+E:\VSW\ZerOneUniversityApp\ZerOneUniversityApp\bin\System.Web.WebPages.Deployment.dll
+E:\VSW\ZerOneUniversityApp\ZerOneUniversityApp\bin\System.Web.WebPages.dll
+E:\VSW\ZerOneUniversityApp\ZerOneUniversityApp\bin\System.Web.WebPages.Razor.dll
+E:\VSW\ZerOneUniversityApp\ZerOneUniversityApp\bin\WebGrease.dll
+E:\VSW\ZerOneUniversityApp\ZerOneUniversityApp\bin\System.Web.Helpers.xml
+E:\VSW\ZerOneUniversityApp\ZerOneUniversityApp\bin\System.Web.Mvc.xml
+E:\VSW\ZerOneUniversityApp\ZerOneUniversityApp\bin\System.Web.Optimization.xml
+E:\VSW\ZerOneUniversityApp\ZerOneUniversityApp\bin\System.Web.Razor.xml
+E:\VSW\ZerOneUniversityApp\ZerOneUniversityApp\bin\System.Web.WebPages.xml
+E:\VSW\ZerOneUniversityApp\ZerOneUniversityApp\bin\System.Web.WebPages.Deployment.xml
+E:\VSW\ZerOneUniversityApp\ZerOneUniversityApp\bin\System.Web.WebPages.Razor.xml
+E:\VSW\ZerOneUniversityApp\ZerOneUniversityApp\bin\Newtonsoft.Json.xml
+E:\VSW\ZerOneUniversityApp\ZerOneUniversityApp\bin\Antlr3.Runtime.pdb
+E:\VSW\ZerOneUniversityApp\ZerOneUniversityApp\bin\EntityFramework.xml
+E:\VSW\ZerOneUniversityApp\ZerOneUniversityApp\bin\EntityFramework.SqlServer.xml
+E:\VSW\ZerOneUniversityApp\ZerOneUniversityApp\bin\Microsoft.AspNet.Identity.Core.xml
+E:\VSW\ZerOneUniversityApp\ZerOneUniversityApp\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\VSW\ZerOneUniversityApp\ZerOneUniversityApp\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\VSW\ZerOneUniversityApp\ZerOneUniversityApp\bin\Microsoft.Owin.xml
+E:\VSW\ZerOneUniversityApp\ZerOneUniversityApp\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\VSW\ZerOneUniversityApp\ZerOneUniversityApp\bin\Microsoft.Owin.Security.xml
+E:\VSW\ZerOneUniversityApp\ZerOneUniversityApp\bin\Microsoft.Owin.Security.Facebook.xml
+E:\VSW\ZerOneUniversityApp\ZerOneUniversityApp\bin\Microsoft.Owin.Security.Cookies.xml
+E:\VSW\ZerOneUniversityApp\ZerOneUniversityApp\bin\Microsoft.Owin.Security.OAuth.xml
+E:\VSW\ZerOneUniversityApp\ZerOneUniversityApp\bin\Microsoft.Owin.Security.Google.xml
+E:\VSW\ZerOneUniversityApp\ZerOneUniversityApp\bin\Microsoft.Owin.Security.Twitter.xml
+E:\VSW\ZerOneUniversityApp\ZerOneUniversityApp\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+E:\VSW\ZerOneUniversityApp\ZerOneUniversityApp\obj\Debug\ZerOneUniversityApp.csprojResolveAssemblyReference.cache
+E:\VSW\ZerOneUniversityApp\ZerOneUniversityApp\obj\Debug\ZerOneUniversityApp.dll
+E:\VSW\ZerOneUniversityApp\ZerOneUniversityApp\obj\Debug\ZerOneUniversityApp.pdb
+E:\VSW\ZerOneUniversityApp\ZerOneUniversityApp\obj\Debug\ZerOneUniversityApp.Migrations.v1departmentstudentadd.resources
+E:\VSW\ZerOneUniversityApp\ZerOneUniversityApp\obj\Debug\ZerOneUniversityApp.csproj.GenerateResource.Cache
+C:\Users\Atik\Desktop\Final Project\ZerOneUniversityApp\ZerOneUniversityApp\obj\Debug\ZerOneUniversityApp.csprojResolveAssemblyReference.cache
+C:\Users\Atik\Desktop\Final Project\ZerOneUniversityApp\ZerOneUniversityApp\obj\Debug\ZerOneUniversityApp.Migrations.v1departmentstudentadd.resources
+C:\Users\Atik\Desktop\Final Project\ZerOneUniversityApp\ZerOneUniversityApp\obj\Debug\ZerOneUniversityApp.csproj.GenerateResource.Cache
+C:\Users\Atik\Desktop\Final Project\ZerOneUniversityApp\ZerOneUniversityApp\obj\Debug\ZerOneUniversityApp.dll
+C:\Users\Atik\Desktop\Final Project\ZerOneUniversityApp\ZerOneUniversityApp\obj\Debug\ZerOneUniversityApp.pdb
+C:\Users\Atik\Desktop\Final Project\ZerOneUniversityApp\ZerOneUniversityApp\bin\ZerOneUniversityApp.dll.config
+C:\Users\Atik\Desktop\Final Project\ZerOneUniversityApp\ZerOneUniversityApp\bin\ZerOneUniversityApp.dll
+C:\Users\Atik\Desktop\Final Project\ZerOneUniversityApp\ZerOneUniversityApp\bin\ZerOneUniversityApp.pdb
+C:\Users\Atik\Desktop\Final Project\ZerOneUniversityApp\ZerOneUniversityApp\bin\Antlr3.Runtime.dll
+C:\Users\Atik\Desktop\Final Project\ZerOneUniversityApp\ZerOneUniversityApp\bin\EntityFramework.dll
+C:\Users\Atik\Desktop\Final Project\ZerOneUniversityApp\ZerOneUniversityApp\bin\EntityFramework.SqlServer.dll
+C:\Users\Atik\Desktop\Final Project\ZerOneUniversityApp\ZerOneUniversityApp\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Atik\Desktop\Final Project\ZerOneUniversityApp\ZerOneUniversityApp\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Atik\Desktop\Final Project\ZerOneUniversityApp\ZerOneUniversityApp\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Atik\Desktop\Final Project\ZerOneUniversityApp\ZerOneUniversityApp\bin\Microsoft.Owin.dll
+C:\Users\Atik\Desktop\Final Project\ZerOneUniversityApp\ZerOneUniversityApp\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Atik\Desktop\Final Project\ZerOneUniversityApp\ZerOneUniversityApp\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Atik\Desktop\Final Project\ZerOneUniversityApp\ZerOneUniversityApp\bin\Microsoft.Owin.Security.dll
+C:\Users\Atik\Desktop\Final Project\ZerOneUniversityApp\ZerOneUniversityApp\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Atik\Desktop\Final Project\ZerOneUniversityApp\ZerOneUniversityApp\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Atik\Desktop\Final Project\ZerOneUniversityApp\ZerOneUniversityApp\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Atik\Desktop\Final Project\ZerOneUniversityApp\ZerOneUniversityApp\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Atik\Desktop\Final Project\ZerOneUniversityApp\ZerOneUniversityApp\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Atik\Desktop\Final Project\ZerOneUniversityApp\ZerOneUniversityApp\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Atik\Desktop\Final Project\ZerOneUniversityApp\ZerOneUniversityApp\bin\Newtonsoft.Json.dll
+C:\Users\Atik\Desktop\Final Project\ZerOneUniversityApp\ZerOneUniversityApp\bin\Owin.dll
+C:\Users\Atik\Desktop\Final Project\ZerOneUniversityApp\ZerOneUniversityApp\bin\System.Web.Helpers.dll
+C:\Users\Atik\Desktop\Final Project\ZerOneUniversityApp\ZerOneUniversityApp\bin\System.Web.Mvc.dll
+C:\Users\Atik\Desktop\Final Project\ZerOneUniversityApp\ZerOneUniversityApp\bin\System.Web.Optimization.dll
+C:\Users\Atik\Desktop\Final Project\ZerOneUniversityApp\ZerOneUniversityApp\bin\System.Web.Razor.dll
+C:\Users\Atik\Desktop\Final Project\ZerOneUniversityApp\ZerOneUniversityApp\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Atik\Desktop\Final Project\ZerOneUniversityApp\ZerOneUniversityApp\bin\System.Web.WebPages.dll
+C:\Users\Atik\Desktop\Final Project\ZerOneUniversityApp\ZerOneUniversityApp\bin\System.Web.WebPages.Razor.dll
+C:\Users\Atik\Desktop\Final Project\ZerOneUniversityApp\ZerOneUniversityApp\bin\WebGrease.dll
+C:\Users\Atik\Desktop\Final Project\ZerOneUniversityApp\ZerOneUniversityApp\bin\EntityFramework.xml
+C:\Users\Atik\Desktop\Final Project\ZerOneUniversityApp\ZerOneUniversityApp\bin\EntityFramework.SqlServer.xml
+C:\Users\Atik\Desktop\Final Project\ZerOneUniversityApp\ZerOneUniversityApp\bin\System.Web.Helpers.xml
+C:\Users\Atik\Desktop\Final Project\ZerOneUniversityApp\ZerOneUniversityApp\bin\System.Web.Mvc.xml
+C:\Users\Atik\Desktop\Final Project\ZerOneUniversityApp\ZerOneUniversityApp\bin\System.Web.Optimization.xml
+C:\Users\Atik\Desktop\Final Project\ZerOneUniversityApp\ZerOneUniversityApp\bin\System.Web.Razor.xml
+C:\Users\Atik\Desktop\Final Project\ZerOneUniversityApp\ZerOneUniversityApp\bin\System.Web.WebPages.xml
+C:\Users\Atik\Desktop\Final Project\ZerOneUniversityApp\ZerOneUniversityApp\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Atik\Desktop\Final Project\ZerOneUniversityApp\ZerOneUniversityApp\bin\System.Web.WebPages.Razor.xml
+C:\Users\Atik\Desktop\Final Project\ZerOneUniversityApp\ZerOneUniversityApp\bin\Newtonsoft.Json.xml
+C:\Users\Atik\Desktop\Final Project\ZerOneUniversityApp\ZerOneUniversityApp\bin\Antlr3.Runtime.pdb
+C:\Users\Atik\Desktop\Final Project\ZerOneUniversityApp\ZerOneUniversityApp\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Atik\Desktop\Final Project\ZerOneUniversityApp\ZerOneUniversityApp\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Atik\Desktop\Final Project\ZerOneUniversityApp\ZerOneUniversityApp\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Atik\Desktop\Final Project\ZerOneUniversityApp\ZerOneUniversityApp\bin\Microsoft.Owin.xml
+C:\Users\Atik\Desktop\Final Project\ZerOneUniversityApp\ZerOneUniversityApp\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Atik\Desktop\Final Project\ZerOneUniversityApp\ZerOneUniversityApp\bin\Microsoft.Owin.Security.xml
+C:\Users\Atik\Desktop\Final Project\ZerOneUniversityApp\ZerOneUniversityApp\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Atik\Desktop\Final Project\ZerOneUniversityApp\ZerOneUniversityApp\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Atik\Desktop\Final Project\ZerOneUniversityApp\ZerOneUniversityApp\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Atik\Desktop\Final Project\ZerOneUniversityApp\ZerOneUniversityApp\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Atik\Desktop\Final Project\ZerOneUniversityApp\ZerOneUniversityApp\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Atik\Desktop\Final Project\ZerOneUniversityApp\ZerOneUniversityApp\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Atik\Desktop\Final Project\ZerOneUniversityApp\ZerOneUniversityApp\obj\Debug\ZerOneUniversityApp.Migrations.v2.resources
+F:\Project\ZerOneUniversityApp\ZerOneUniversityApp\bin\ZerOneUniversityApp.dll.config
+F:\Project\ZerOneUniversityApp\ZerOneUniversityApp\bin\ZerOneUniversityApp.dll
+F:\Project\ZerOneUniversityApp\ZerOneUniversityApp\bin\ZerOneUniversityApp.pdb
+F:\Project\ZerOneUniversityApp\ZerOneUniversityApp\bin\Antlr3.Runtime.dll
+F:\Project\ZerOneUniversityApp\ZerOneUniversityApp\bin\EntityFramework.dll
+F:\Project\ZerOneUniversityApp\ZerOneUniversityApp\bin\EntityFramework.SqlServer.dll
+F:\Project\ZerOneUniversityApp\ZerOneUniversityApp\bin\Microsoft.AspNet.Identity.Core.dll
+F:\Project\ZerOneUniversityApp\ZerOneUniversityApp\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+F:\Project\ZerOneUniversityApp\ZerOneUniversityApp\bin\Microsoft.AspNet.Identity.Owin.dll
+F:\Project\ZerOneUniversityApp\ZerOneUniversityApp\bin\Microsoft.Owin.dll
+F:\Project\ZerOneUniversityApp\ZerOneUniversityApp\bin\Microsoft.Owin.Host.SystemWeb.dll
+F:\Project\ZerOneUniversityApp\ZerOneUniversityApp\bin\Microsoft.Owin.Security.Cookies.dll
+F:\Project\ZerOneUniversityApp\ZerOneUniversityApp\bin\Microsoft.Owin.Security.dll
+F:\Project\ZerOneUniversityApp\ZerOneUniversityApp\bin\Microsoft.Owin.Security.Facebook.dll
+F:\Project\ZerOneUniversityApp\ZerOneUniversityApp\bin\Microsoft.Owin.Security.Google.dll
+F:\Project\ZerOneUniversityApp\ZerOneUniversityApp\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+F:\Project\ZerOneUniversityApp\ZerOneUniversityApp\bin\Microsoft.Owin.Security.OAuth.dll
+F:\Project\ZerOneUniversityApp\ZerOneUniversityApp\bin\Microsoft.Owin.Security.Twitter.dll
+F:\Project\ZerOneUniversityApp\ZerOneUniversityApp\bin\Microsoft.Web.Infrastructure.dll
+F:\Project\ZerOneUniversityApp\ZerOneUniversityApp\bin\Newtonsoft.Json.dll
+F:\Project\ZerOneUniversityApp\ZerOneUniversityApp\bin\Owin.dll
+F:\Project\ZerOneUniversityApp\ZerOneUniversityApp\bin\System.Web.Helpers.dll
+F:\Project\ZerOneUniversityApp\ZerOneUniversityApp\bin\System.Web.Mvc.dll
+F:\Project\ZerOneUniversityApp\ZerOneUniversityApp\bin\System.Web.Optimization.dll
+F:\Project\ZerOneUniversityApp\ZerOneUniversityApp\bin\System.Web.Razor.dll
+F:\Project\ZerOneUniversityApp\ZerOneUniversityApp\bin\System.Web.WebPages.Deployment.dll
+F:\Project\ZerOneUniversityApp\ZerOneUniversityApp\bin\System.Web.WebPages.dll
+F:\Project\ZerOneUniversityApp\ZerOneUniversityApp\bin\System.Web.WebPages.Razor.dll
+F:\Project\ZerOneUniversityApp\ZerOneUniversityApp\bin\WebGrease.dll
+F:\Project\ZerOneUniversityApp\ZerOneUniversityApp\bin\EntityFramework.xml
+F:\Project\ZerOneUniversityApp\ZerOneUniversityApp\bin\EntityFramework.SqlServer.xml
+F:\Project\ZerOneUniversityApp\ZerOneUniversityApp\bin\System.Web.Helpers.xml
+F:\Project\ZerOneUniversityApp\ZerOneUniversityApp\bin\System.Web.Mvc.xml
+F:\Project\ZerOneUniversityApp\ZerOneUniversityApp\bin\System.Web.Optimization.xml
+F:\Project\ZerOneUniversityApp\ZerOneUniversityApp\bin\System.Web.Razor.xml
+F:\Project\ZerOneUniversityApp\ZerOneUniversityApp\bin\System.Web.WebPages.xml
+F:\Project\ZerOneUniversityApp\ZerOneUniversityApp\bin\System.Web.WebPages.Deployment.xml
+F:\Project\ZerOneUniversityApp\ZerOneUniversityApp\bin\System.Web.WebPages.Razor.xml
+F:\Project\ZerOneUniversityApp\ZerOneUniversityApp\bin\Newtonsoft.Json.xml
+F:\Project\ZerOneUniversityApp\ZerOneUniversityApp\bin\Antlr3.Runtime.pdb
+F:\Project\ZerOneUniversityApp\ZerOneUniversityApp\bin\Microsoft.AspNet.Identity.Core.xml
+F:\Project\ZerOneUniversityApp\ZerOneUniversityApp\bin\Microsoft.AspNet.Identity.Owin.xml
+F:\Project\ZerOneUniversityApp\ZerOneUniversityApp\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+F:\Project\ZerOneUniversityApp\ZerOneUniversityApp\bin\Microsoft.Owin.xml
+F:\Project\ZerOneUniversityApp\ZerOneUniversityApp\bin\Microsoft.Owin.Host.SystemWeb.xml
+F:\Project\ZerOneUniversityApp\ZerOneUniversityApp\bin\Microsoft.Owin.Security.xml
+F:\Project\ZerOneUniversityApp\ZerOneUniversityApp\bin\Microsoft.Owin.Security.Facebook.xml
+F:\Project\ZerOneUniversityApp\ZerOneUniversityApp\bin\Microsoft.Owin.Security.Cookies.xml
+F:\Project\ZerOneUniversityApp\ZerOneUniversityApp\bin\Microsoft.Owin.Security.OAuth.xml
+F:\Project\ZerOneUniversityApp\ZerOneUniversityApp\bin\Microsoft.Owin.Security.Google.xml
+F:\Project\ZerOneUniversityApp\ZerOneUniversityApp\bin\Microsoft.Owin.Security.Twitter.xml
+F:\Project\ZerOneUniversityApp\ZerOneUniversityApp\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+F:\Project\ZerOneUniversityApp\ZerOneUniversityApp\obj\Debug\ZerOneUniversityApp.csprojResolveAssemblyReference.cache
+F:\Project\ZerOneUniversityApp\ZerOneUniversityApp\obj\Debug\ZerOneUniversityApp.Migrations.v1departmentstudentadd.resources
+F:\Project\ZerOneUniversityApp\ZerOneUniversityApp\obj\Debug\ZerOneUniversityApp.Migrations.v2.resources
+F:\Project\ZerOneUniversityApp\ZerOneUniversityApp\obj\Debug\ZerOneUniversityApp.csproj.GenerateResource.Cache
+F:\Project\ZerOneUniversityApp\ZerOneUniversityApp\obj\Debug\ZerOneUniversityApp.dll
+F:\Project\ZerOneUniversityApp\ZerOneUniversityApp\obj\Debug\ZerOneUniversityApp.pdb
+C:\Users\Atik\Desktop\New folder\ZerOneUniversityApp\ZerOneUniversityApp\bin\ZerOneUniversityApp.dll.config
+C:\Users\Atik\Desktop\New folder\ZerOneUniversityApp\ZerOneUniversityApp\bin\ZerOneUniversityApp.dll
+C:\Users\Atik\Desktop\New folder\ZerOneUniversityApp\ZerOneUniversityApp\bin\ZerOneUniversityApp.pdb
+C:\Users\Atik\Desktop\New folder\ZerOneUniversityApp\ZerOneUniversityApp\bin\Antlr3.Runtime.dll
+C:\Users\Atik\Desktop\New folder\ZerOneUniversityApp\ZerOneUniversityApp\bin\EntityFramework.dll
+C:\Users\Atik\Desktop\New folder\ZerOneUniversityApp\ZerOneUniversityApp\bin\EntityFramework.SqlServer.dll
+C:\Users\Atik\Desktop\New folder\ZerOneUniversityApp\ZerOneUniversityApp\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Atik\Desktop\New folder\ZerOneUniversityApp\ZerOneUniversityApp\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Atik\Desktop\New folder\ZerOneUniversityApp\ZerOneUniversityApp\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Atik\Desktop\New folder\ZerOneUniversityApp\ZerOneUniversityApp\bin\Microsoft.Owin.dll
+C:\Users\Atik\Desktop\New folder\ZerOneUniversityApp\ZerOneUniversityApp\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Atik\Desktop\New folder\ZerOneUniversityApp\ZerOneUniversityApp\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Atik\Desktop\New folder\ZerOneUniversityApp\ZerOneUniversityApp\bin\Microsoft.Owin.Security.dll
+C:\Users\Atik\Desktop\New folder\ZerOneUniversityApp\ZerOneUniversityApp\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Atik\Desktop\New folder\ZerOneUniversityApp\ZerOneUniversityApp\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Atik\Desktop\New folder\ZerOneUniversityApp\ZerOneUniversityApp\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Atik\Desktop\New folder\ZerOneUniversityApp\ZerOneUniversityApp\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Atik\Desktop\New folder\ZerOneUniversityApp\ZerOneUniversityApp\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Atik\Desktop\New folder\ZerOneUniversityApp\ZerOneUniversityApp\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Atik\Desktop\New folder\ZerOneUniversityApp\ZerOneUniversityApp\bin\Newtonsoft.Json.dll
+C:\Users\Atik\Desktop\New folder\ZerOneUniversityApp\ZerOneUniversityApp\bin\Owin.dll
+C:\Users\Atik\Desktop\New folder\ZerOneUniversityApp\ZerOneUniversityApp\bin\System.Web.Helpers.dll
+C:\Users\Atik\Desktop\New folder\ZerOneUniversityApp\ZerOneUniversityApp\bin\System.Web.Mvc.dll
+C:\Users\Atik\Desktop\New folder\ZerOneUniversityApp\ZerOneUniversityApp\bin\System.Web.Optimization.dll
+C:\Users\Atik\Desktop\New folder\ZerOneUniversityApp\ZerOneUniversityApp\bin\System.Web.Razor.dll
+C:\Users\Atik\Desktop\New folder\ZerOneUniversityApp\ZerOneUniversityApp\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Atik\Desktop\New folder\ZerOneUniversityApp\ZerOneUniversityApp\bin\System.Web.WebPages.dll
+C:\Users\Atik\Desktop\New folder\ZerOneUniversityApp\ZerOneUniversityApp\bin\System.Web.WebPages.Razor.dll
+C:\Users\Atik\Desktop\New folder\ZerOneUniversityApp\ZerOneUniversityApp\bin\WebGrease.dll
+C:\Users\Atik\Desktop\New folder\ZerOneUniversityApp\ZerOneUniversityApp\bin\EntityFramework.xml
+C:\Users\Atik\Desktop\New folder\ZerOneUniversityApp\ZerOneUniversityApp\bin\EntityFramework.SqlServer.xml
+C:\Users\Atik\Desktop\New folder\ZerOneUniversityApp\ZerOneUniversityApp\bin\System.Web.Helpers.xml
+C:\Users\Atik\Desktop\New folder\ZerOneUniversityApp\ZerOneUniversityApp\bin\System.Web.Mvc.xml
+C:\Users\Atik\Desktop\New folder\ZerOneUniversityApp\ZerOneUniversityApp\bin\System.Web.Optimization.xml
+C:\Users\Atik\Desktop\New folder\ZerOneUniversityApp\ZerOneUniversityApp\bin\System.Web.Razor.xml
+C:\Users\Atik\Desktop\New folder\ZerOneUniversityApp\ZerOneUniversityApp\bin\System.Web.WebPages.xml
+C:\Users\Atik\Desktop\New folder\ZerOneUniversityApp\ZerOneUniversityApp\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Atik\Desktop\New folder\ZerOneUniversityApp\ZerOneUniversityApp\bin\System.Web.WebPages.Razor.xml
+C:\Users\Atik\Desktop\New folder\ZerOneUniversityApp\ZerOneUniversityApp\bin\Newtonsoft.Json.xml
+C:\Users\Atik\Desktop\New folder\ZerOneUniversityApp\ZerOneUniversityApp\bin\Antlr3.Runtime.pdb
+C:\Users\Atik\Desktop\New folder\ZerOneUniversityApp\ZerOneUniversityApp\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Atik\Desktop\New folder\ZerOneUniversityApp\ZerOneUniversityApp\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Atik\Desktop\New folder\ZerOneUniversityApp\ZerOneUniversityApp\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Atik\Desktop\New folder\ZerOneUniversityApp\ZerOneUniversityApp\bin\Microsoft.Owin.xml
+C:\Users\Atik\Desktop\New folder\ZerOneUniversityApp\ZerOneUniversityApp\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Atik\Desktop\New folder\ZerOneUniversityApp\ZerOneUniversityApp\bin\Microsoft.Owin.Security.xml
+C:\Users\Atik\Desktop\New folder\ZerOneUniversityApp\ZerOneUniversityApp\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Atik\Desktop\New folder\ZerOneUniversityApp\ZerOneUniversityApp\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Atik\Desktop\New folder\ZerOneUniversityApp\ZerOneUniversityApp\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Atik\Desktop\New folder\ZerOneUniversityApp\ZerOneUniversityApp\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Atik\Desktop\New folder\ZerOneUniversityApp\ZerOneUniversityApp\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Atik\Desktop\New folder\ZerOneUniversityApp\ZerOneUniversityApp\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Atik\Desktop\New folder\ZerOneUniversityApp\ZerOneUniversityApp\obj\Debug\ZerOneUniversityApp.csprojResolveAssemblyReference.cache
+C:\Users\Atik\Desktop\New folder\ZerOneUniversityApp\ZerOneUniversityApp\obj\Debug\ZerOneUniversityApp.Migrations.v1departmentstudentadd.resources
+C:\Users\Atik\Desktop\New folder\ZerOneUniversityApp\ZerOneUniversityApp\obj\Debug\ZerOneUniversityApp.Migrations.v2.resources
+C:\Users\Atik\Desktop\New folder\ZerOneUniversityApp\ZerOneUniversityApp\obj\Debug\ZerOneUniversityApp.csproj.GenerateResource.Cache
+C:\Users\Atik\Desktop\New folder\ZerOneUniversityApp\ZerOneUniversityApp\obj\Debug\ZerOneUniversityApp.dll
+C:\Users\Atik\Desktop\New folder\ZerOneUniversityApp\ZerOneUniversityApp\obj\Debug\ZerOneUniversityApp.pdb
+C:\Users\Atik\Desktop\New folder\ZerOneUniversityApp\ZerOneUniversityApp\obj\Debug\ZerOneUniversityApp.Migrations.v4.resources
+C:\Users\Atik\Desktop\New folder\Final\ZerOneUniversityApp\ZerOneUniversityApp\obj\Debug\ZerOneUniversityApp.csprojResolveAssemblyReference.cache
+C:\Users\Atik\Desktop\New folder\Final\ZerOneUniversityApp\ZerOneUniversityApp\obj\Debug\ZerOneUniversityApp.Migrations.v1departmentstudentadd.resources
+C:\Users\Atik\Desktop\New folder\Final\ZerOneUniversityApp\ZerOneUniversityApp\obj\Debug\ZerOneUniversityApp.Migrations.v2.resources
+C:\Users\Atik\Desktop\New folder\Final\ZerOneUniversityApp\ZerOneUniversityApp\obj\Debug\ZerOneUniversityApp.Migrations.v4.resources
+C:\Users\Atik\Desktop\New folder\Final\ZerOneUniversityApp\ZerOneUniversityApp\obj\Debug\ZerOneUniversityApp.csproj.GenerateResource.Cache
+C:\Users\Atik\Desktop\New folder\Final\ZerOneUniversityApp\ZerOneUniversityApp\obj\Debug\ZerOneUniversityApp.dll
+C:\Users\Atik\Desktop\New folder\Final\ZerOneUniversityApp\ZerOneUniversityApp\obj\Debug\ZerOneUniversityApp.pdb
+C:\Users\Atik\Desktop\New folder\Final\ZerOneUniversityApp\ZerOneUniversityApp\bin\ZerOneUniversityApp.dll.config
+C:\Users\Atik\Desktop\New folder\Final\ZerOneUniversityApp\ZerOneUniversityApp\bin\ZerOneUniversityApp.dll
+C:\Users\Atik\Desktop\New folder\Final\ZerOneUniversityApp\ZerOneUniversityApp\bin\ZerOneUniversityApp.pdb
+C:\Users\Atik\Desktop\New folder\Final\ZerOneUniversityApp\ZerOneUniversityApp\bin\Antlr3.Runtime.dll
+C:\Users\Atik\Desktop\New folder\Final\ZerOneUniversityApp\ZerOneUniversityApp\bin\EntityFramework.dll
+C:\Users\Atik\Desktop\New folder\Final\ZerOneUniversityApp\ZerOneUniversityApp\bin\EntityFramework.SqlServer.dll
+C:\Users\Atik\Desktop\New folder\Final\ZerOneUniversityApp\ZerOneUniversityApp\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Atik\Desktop\New folder\Final\ZerOneUniversityApp\ZerOneUniversityApp\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Atik\Desktop\New folder\Final\ZerOneUniversityApp\ZerOneUniversityApp\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Atik\Desktop\New folder\Final\ZerOneUniversityApp\ZerOneUniversityApp\bin\Microsoft.Owin.dll
+C:\Users\Atik\Desktop\New folder\Final\ZerOneUniversityApp\ZerOneUniversityApp\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Atik\Desktop\New folder\Final\ZerOneUniversityApp\ZerOneUniversityApp\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Atik\Desktop\New folder\Final\ZerOneUniversityApp\ZerOneUniversityApp\bin\Microsoft.Owin.Security.dll
+C:\Users\Atik\Desktop\New folder\Final\ZerOneUniversityApp\ZerOneUniversityApp\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Atik\Desktop\New folder\Final\ZerOneUniversityApp\ZerOneUniversityApp\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Atik\Desktop\New folder\Final\ZerOneUniversityApp\ZerOneUniversityApp\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Atik\Desktop\New folder\Final\ZerOneUniversityApp\ZerOneUniversityApp\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Atik\Desktop\New folder\Final\ZerOneUniversityApp\ZerOneUniversityApp\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Atik\Desktop\New folder\Final\ZerOneUniversityApp\ZerOneUniversityApp\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Atik\Desktop\New folder\Final\ZerOneUniversityApp\ZerOneUniversityApp\bin\Newtonsoft.Json.dll
+C:\Users\Atik\Desktop\New folder\Final\ZerOneUniversityApp\ZerOneUniversityApp\bin\Owin.dll
+C:\Users\Atik\Desktop\New folder\Final\ZerOneUniversityApp\ZerOneUniversityApp\bin\System.Web.Helpers.dll
+C:\Users\Atik\Desktop\New folder\Final\ZerOneUniversityApp\ZerOneUniversityApp\bin\System.Web.Mvc.dll
+C:\Users\Atik\Desktop\New folder\Final\ZerOneUniversityApp\ZerOneUniversityApp\bin\System.Web.Optimization.dll
+C:\Users\Atik\Desktop\New folder\Final\ZerOneUniversityApp\ZerOneUniversityApp\bin\System.Web.Razor.dll
+C:\Users\Atik\Desktop\New folder\Final\ZerOneUniversityApp\ZerOneUniversityApp\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Atik\Desktop\New folder\Final\ZerOneUniversityApp\ZerOneUniversityApp\bin\System.Web.WebPages.dll
+C:\Users\Atik\Desktop\New folder\Final\ZerOneUniversityApp\ZerOneUniversityApp\bin\System.Web.WebPages.Razor.dll
+C:\Users\Atik\Desktop\New folder\Final\ZerOneUniversityApp\ZerOneUniversityApp\bin\WebGrease.dll
+C:\Users\Atik\Desktop\New folder\Final\ZerOneUniversityApp\ZerOneUniversityApp\bin\EntityFramework.xml
+C:\Users\Atik\Desktop\New folder\Final\ZerOneUniversityApp\ZerOneUniversityApp\bin\EntityFramework.SqlServer.xml
+C:\Users\Atik\Desktop\New folder\Final\ZerOneUniversityApp\ZerOneUniversityApp\bin\System.Web.Helpers.xml
+C:\Users\Atik\Desktop\New folder\Final\ZerOneUniversityApp\ZerOneUniversityApp\bin\System.Web.Mvc.xml
+C:\Users\Atik\Desktop\New folder\Final\ZerOneUniversityApp\ZerOneUniversityApp\bin\System.Web.Optimization.xml
+C:\Users\Atik\Desktop\New folder\Final\ZerOneUniversityApp\ZerOneUniversityApp\bin\System.Web.Razor.xml
+C:\Users\Atik\Desktop\New folder\Final\ZerOneUniversityApp\ZerOneUniversityApp\bin\System.Web.WebPages.xml
+C:\Users\Atik\Desktop\New folder\Final\ZerOneUniversityApp\ZerOneUniversityApp\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Atik\Desktop\New folder\Final\ZerOneUniversityApp\ZerOneUniversityApp\bin\System.Web.WebPages.Razor.xml
+C:\Users\Atik\Desktop\New folder\Final\ZerOneUniversityApp\ZerOneUniversityApp\bin\Newtonsoft.Json.xml
+C:\Users\Atik\Desktop\New folder\Final\ZerOneUniversityApp\ZerOneUniversityApp\bin\Antlr3.Runtime.pdb
+C:\Users\Atik\Desktop\New folder\Final\ZerOneUniversityApp\ZerOneUniversityApp\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Atik\Desktop\New folder\Final\ZerOneUniversityApp\ZerOneUniversityApp\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Atik\Desktop\New folder\Final\ZerOneUniversityApp\ZerOneUniversityApp\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Atik\Desktop\New folder\Final\ZerOneUniversityApp\ZerOneUniversityApp\bin\Microsoft.Owin.xml
+C:\Users\Atik\Desktop\New folder\Final\ZerOneUniversityApp\ZerOneUniversityApp\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Atik\Desktop\New folder\Final\ZerOneUniversityApp\ZerOneUniversityApp\bin\Microsoft.Owin.Security.xml
+C:\Users\Atik\Desktop\New folder\Final\ZerOneUniversityApp\ZerOneUniversityApp\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Atik\Desktop\New folder\Final\ZerOneUniversityApp\ZerOneUniversityApp\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Atik\Desktop\New folder\Final\ZerOneUniversityApp\ZerOneUniversityApp\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Atik\Desktop\New folder\Final\ZerOneUniversityApp\ZerOneUniversityApp\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Atik\Desktop\New folder\Final\ZerOneUniversityApp\ZerOneUniversityApp\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Atik\Desktop\New folder\Final\ZerOneUniversityApp\ZerOneUniversityApp\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+F:\Nirash Mamun\final project\ZerOneUniversityApp\ZerOneUniversityApp\bin\ZerOneUniversityApp.dll.config
+F:\Nirash Mamun\final project\ZerOneUniversityApp\ZerOneUniversityApp\bin\ZerOneUniversityApp.dll
+F:\Nirash Mamun\final project\ZerOneUniversityApp\ZerOneUniversityApp\bin\ZerOneUniversityApp.pdb
+F:\Nirash Mamun\final project\ZerOneUniversityApp\ZerOneUniversityApp\bin\Antlr3.Runtime.dll
+F:\Nirash Mamun\final project\ZerOneUniversityApp\ZerOneUniversityApp\bin\EntityFramework.dll
+F:\Nirash Mamun\final project\ZerOneUniversityApp\ZerOneUniversityApp\bin\EntityFramework.SqlServer.dll
+F:\Nirash Mamun\final project\ZerOneUniversityApp\ZerOneUniversityApp\bin\Microsoft.AspNet.Identity.Core.dll
+F:\Nirash Mamun\final project\ZerOneUniversityApp\ZerOneUniversityApp\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+F:\Nirash Mamun\final project\ZerOneUniversityApp\ZerOneUniversityApp\bin\Microsoft.AspNet.Identity.Owin.dll
+F:\Nirash Mamun\final project\ZerOneUniversityApp\ZerOneUniversityApp\bin\Microsoft.Owin.dll
+F:\Nirash Mamun\final project\ZerOneUniversityApp\ZerOneUniversityApp\bin\Microsoft.Owin.Host.SystemWeb.dll
+F:\Nirash Mamun\final project\ZerOneUniversityApp\ZerOneUniversityApp\bin\Microsoft.Owin.Security.Cookies.dll
+F:\Nirash Mamun\final project\ZerOneUniversityApp\ZerOneUniversityApp\bin\Microsoft.Owin.Security.dll
+F:\Nirash Mamun\final project\ZerOneUniversityApp\ZerOneUniversityApp\bin\Microsoft.Owin.Security.Facebook.dll
+F:\Nirash Mamun\final project\ZerOneUniversityApp\ZerOneUniversityApp\bin\Microsoft.Owin.Security.Google.dll
+F:\Nirash Mamun\final project\ZerOneUniversityApp\ZerOneUniversityApp\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+F:\Nirash Mamun\final project\ZerOneUniversityApp\ZerOneUniversityApp\bin\Microsoft.Owin.Security.OAuth.dll
+F:\Nirash Mamun\final project\ZerOneUniversityApp\ZerOneUniversityApp\bin\Microsoft.Owin.Security.Twitter.dll
+F:\Nirash Mamun\final project\ZerOneUniversityApp\ZerOneUniversityApp\bin\Microsoft.Web.Infrastructure.dll
+F:\Nirash Mamun\final project\ZerOneUniversityApp\ZerOneUniversityApp\bin\Newtonsoft.Json.dll
+F:\Nirash Mamun\final project\ZerOneUniversityApp\ZerOneUniversityApp\bin\Owin.dll
+F:\Nirash Mamun\final project\ZerOneUniversityApp\ZerOneUniversityApp\bin\System.Web.Helpers.dll
+F:\Nirash Mamun\final project\ZerOneUniversityApp\ZerOneUniversityApp\bin\System.Web.Mvc.dll
+F:\Nirash Mamun\final project\ZerOneUniversityApp\ZerOneUniversityApp\bin\System.Web.Optimization.dll
+F:\Nirash Mamun\final project\ZerOneUniversityApp\ZerOneUniversityApp\bin\System.Web.Razor.dll
+F:\Nirash Mamun\final project\ZerOneUniversityApp\ZerOneUniversityApp\bin\System.Web.WebPages.Deployment.dll
+F:\Nirash Mamun\final project\ZerOneUniversityApp\ZerOneUniversityApp\bin\System.Web.WebPages.dll
+F:\Nirash Mamun\final project\ZerOneUniversityApp\ZerOneUniversityApp\bin\System.Web.WebPages.Razor.dll
+F:\Nirash Mamun\final project\ZerOneUniversityApp\ZerOneUniversityApp\bin\WebGrease.dll
+F:\Nirash Mamun\final project\ZerOneUniversityApp\ZerOneUniversityApp\bin\EntityFramework.xml
+F:\Nirash Mamun\final project\ZerOneUniversityApp\ZerOneUniversityApp\bin\EntityFramework.SqlServer.xml
+F:\Nirash Mamun\final project\ZerOneUniversityApp\ZerOneUniversityApp\bin\System.Web.Helpers.xml
+F:\Nirash Mamun\final project\ZerOneUniversityApp\ZerOneUniversityApp\bin\System.Web.Mvc.xml
+F:\Nirash Mamun\final project\ZerOneUniversityApp\ZerOneUniversityApp\bin\System.Web.Optimization.xml
+F:\Nirash Mamun\final project\ZerOneUniversityApp\ZerOneUniversityApp\bin\System.Web.Razor.xml
+F:\Nirash Mamun\final project\ZerOneUniversityApp\ZerOneUniversityApp\bin\System.Web.WebPages.xml
+F:\Nirash Mamun\final project\ZerOneUniversityApp\ZerOneUniversityApp\bin\System.Web.WebPages.Deployment.xml
+F:\Nirash Mamun\final project\ZerOneUniversityApp\ZerOneUniversityApp\bin\System.Web.WebPages.Razor.xml
+F:\Nirash Mamun\final project\ZerOneUniversityApp\ZerOneUniversityApp\bin\Newtonsoft.Json.xml
+F:\Nirash Mamun\final project\ZerOneUniversityApp\ZerOneUniversityApp\bin\Antlr3.Runtime.pdb
+F:\Nirash Mamun\final project\ZerOneUniversityApp\ZerOneUniversityApp\bin\Microsoft.AspNet.Identity.Core.xml
+F:\Nirash Mamun\final project\ZerOneUniversityApp\ZerOneUniversityApp\bin\Microsoft.AspNet.Identity.Owin.xml
+F:\Nirash Mamun\final project\ZerOneUniversityApp\ZerOneUniversityApp\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+F:\Nirash Mamun\final project\ZerOneUniversityApp\ZerOneUniversityApp\bin\Microsoft.Owin.xml
+F:\Nirash Mamun\final project\ZerOneUniversityApp\ZerOneUniversityApp\bin\Microsoft.Owin.Host.SystemWeb.xml
+F:\Nirash Mamun\final project\ZerOneUniversityApp\ZerOneUniversityApp\bin\Microsoft.Owin.Security.xml
+F:\Nirash Mamun\final project\ZerOneUniversityApp\ZerOneUniversityApp\bin\Microsoft.Owin.Security.Facebook.xml
+F:\Nirash Mamun\final project\ZerOneUniversityApp\ZerOneUniversityApp\bin\Microsoft.Owin.Security.Cookies.xml
+F:\Nirash Mamun\final project\ZerOneUniversityApp\ZerOneUniversityApp\bin\Microsoft.Owin.Security.OAuth.xml
+F:\Nirash Mamun\final project\ZerOneUniversityApp\ZerOneUniversityApp\bin\Microsoft.Owin.Security.Google.xml
+F:\Nirash Mamun\final project\ZerOneUniversityApp\ZerOneUniversityApp\bin\Microsoft.Owin.Security.Twitter.xml
+F:\Nirash Mamun\final project\ZerOneUniversityApp\ZerOneUniversityApp\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+F:\Nirash Mamun\final project\ZerOneUniversityApp\ZerOneUniversityApp\obj\Debug\ZerOneUniversityApp.csprojResolveAssemblyReference.cache
+F:\Nirash Mamun\final project\ZerOneUniversityApp\ZerOneUniversityApp\obj\Debug\ZerOneUniversityApp.Migrations.v1departmentstudentadd.resources
+F:\Nirash Mamun\final project\ZerOneUniversityApp\ZerOneUniversityApp\obj\Debug\ZerOneUniversityApp.Migrations.v2.resources
+F:\Nirash Mamun\final project\ZerOneUniversityApp\ZerOneUniversityApp\obj\Debug\ZerOneUniversityApp.Migrations.v4.resources
+F:\Nirash Mamun\final project\ZerOneUniversityApp\ZerOneUniversityApp\obj\Debug\ZerOneUniversityApp.csproj.GenerateResource.Cache
+F:\Nirash Mamun\final project\ZerOneUniversityApp\ZerOneUniversityApp\obj\Debug\ZerOneUniversityApp.dll
+F:\Nirash Mamun\final project\ZerOneUniversityApp\ZerOneUniversityApp\obj\Debug\ZerOneUniversityApp.pdb
+D:\Final\ZerOneUniversityApp\ZerOneUniversityApp\bin\ZerOneUniversityApp.dll.config
+D:\Final\ZerOneUniversityApp\ZerOneUniversityApp\bin\ZerOneUniversityApp.dll
+D:\Final\ZerOneUniversityApp\ZerOneUniversityApp\bin\ZerOneUniversityApp.pdb
+D:\Final\ZerOneUniversityApp\ZerOneUniversityApp\bin\Antlr3.Runtime.dll
+D:\Final\ZerOneUniversityApp\ZerOneUniversityApp\bin\EntityFramework.dll
+D:\Final\ZerOneUniversityApp\ZerOneUniversityApp\bin\EntityFramework.SqlServer.dll
+D:\Final\ZerOneUniversityApp\ZerOneUniversityApp\bin\Microsoft.AspNet.Identity.Core.dll
+D:\Final\ZerOneUniversityApp\ZerOneUniversityApp\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Final\ZerOneUniversityApp\ZerOneUniversityApp\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\Final\ZerOneUniversityApp\ZerOneUniversityApp\bin\Microsoft.Owin.dll
+D:\Final\ZerOneUniversityApp\ZerOneUniversityApp\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\Final\ZerOneUniversityApp\ZerOneUniversityApp\bin\Microsoft.Owin.Security.Cookies.dll
+D:\Final\ZerOneUniversityApp\ZerOneUniversityApp\bin\Microsoft.Owin.Security.dll
+D:\Final\ZerOneUniversityApp\ZerOneUniversityApp\bin\Microsoft.Owin.Security.Facebook.dll
+D:\Final\ZerOneUniversityApp\ZerOneUniversityApp\bin\Microsoft.Owin.Security.Google.dll
+D:\Final\ZerOneUniversityApp\ZerOneUniversityApp\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\Final\ZerOneUniversityApp\ZerOneUniversityApp\bin\Microsoft.Owin.Security.OAuth.dll
+D:\Final\ZerOneUniversityApp\ZerOneUniversityApp\bin\Microsoft.Owin.Security.Twitter.dll
+D:\Final\ZerOneUniversityApp\ZerOneUniversityApp\bin\Microsoft.Web.Infrastructure.dll
+D:\Final\ZerOneUniversityApp\ZerOneUniversityApp\bin\Newtonsoft.Json.dll
+D:\Final\ZerOneUniversityApp\ZerOneUniversityApp\bin\Owin.dll
+D:\Final\ZerOneUniversityApp\ZerOneUniversityApp\bin\System.Web.Helpers.dll
+D:\Final\ZerOneUniversityApp\ZerOneUniversityApp\bin\System.Web.Mvc.dll
+D:\Final\ZerOneUniversityApp\ZerOneUniversityApp\bin\System.Web.Optimization.dll
+D:\Final\ZerOneUniversityApp\ZerOneUniversityApp\bin\System.Web.Razor.dll
+D:\Final\ZerOneUniversityApp\ZerOneUniversityApp\bin\System.Web.WebPages.Deployment.dll
+D:\Final\ZerOneUniversityApp\ZerOneUniversityApp\bin\System.Web.WebPages.dll
+D:\Final\ZerOneUniversityApp\ZerOneUniversityApp\bin\System.Web.WebPages.Razor.dll
+D:\Final\ZerOneUniversityApp\ZerOneUniversityApp\bin\WebGrease.dll
+D:\Final\ZerOneUniversityApp\ZerOneUniversityApp\bin\EntityFramework.xml
+D:\Final\ZerOneUniversityApp\ZerOneUniversityApp\bin\EntityFramework.SqlServer.xml
+D:\Final\ZerOneUniversityApp\ZerOneUniversityApp\bin\System.Web.Helpers.xml
+D:\Final\ZerOneUniversityApp\ZerOneUniversityApp\bin\System.Web.Mvc.xml
+D:\Final\ZerOneUniversityApp\ZerOneUniversityApp\bin\System.Web.Optimization.xml
+D:\Final\ZerOneUniversityApp\ZerOneUniversityApp\bin\System.Web.Razor.xml
+D:\Final\ZerOneUniversityApp\ZerOneUniversityApp\bin\System.Web.WebPages.xml
+D:\Final\ZerOneUniversityApp\ZerOneUniversityApp\bin\System.Web.WebPages.Deployment.xml
+D:\Final\ZerOneUniversityApp\ZerOneUniversityApp\bin\System.Web.WebPages.Razor.xml
+D:\Final\ZerOneUniversityApp\ZerOneUniversityApp\bin\Newtonsoft.Json.xml
+D:\Final\ZerOneUniversityApp\ZerOneUniversityApp\bin\Antlr3.Runtime.pdb
+D:\Final\ZerOneUniversityApp\ZerOneUniversityApp\bin\Microsoft.AspNet.Identity.Core.xml
+D:\Final\ZerOneUniversityApp\ZerOneUniversityApp\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\Final\ZerOneUniversityApp\ZerOneUniversityApp\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Final\ZerOneUniversityApp\ZerOneUniversityApp\bin\Microsoft.Owin.xml
+D:\Final\ZerOneUniversityApp\ZerOneUniversityApp\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\Final\ZerOneUniversityApp\ZerOneUniversityApp\bin\Microsoft.Owin.Security.xml
+D:\Final\ZerOneUniversityApp\ZerOneUniversityApp\bin\Microsoft.Owin.Security.Facebook.xml
+D:\Final\ZerOneUniversityApp\ZerOneUniversityApp\bin\Microsoft.Owin.Security.Cookies.xml
+D:\Final\ZerOneUniversityApp\ZerOneUniversityApp\bin\Microsoft.Owin.Security.OAuth.xml
+D:\Final\ZerOneUniversityApp\ZerOneUniversityApp\bin\Microsoft.Owin.Security.Google.xml
+D:\Final\ZerOneUniversityApp\ZerOneUniversityApp\bin\Microsoft.Owin.Security.Twitter.xml
+D:\Final\ZerOneUniversityApp\ZerOneUniversityApp\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\Final\ZerOneUniversityApp\ZerOneUniversityApp\obj\Debug\ZerOneUniversityApp.csprojResolveAssemblyReference.cache
+D:\Final\ZerOneUniversityApp\ZerOneUniversityApp\obj\Debug\ZerOneUniversityApp.Migrations.v1departmentstudentadd.resources
+D:\Final\ZerOneUniversityApp\ZerOneUniversityApp\obj\Debug\ZerOneUniversityApp.Migrations.v2.resources
+D:\Final\ZerOneUniversityApp\ZerOneUniversityApp\obj\Debug\ZerOneUniversityApp.Migrations.v4.resources
+D:\Final\ZerOneUniversityApp\ZerOneUniversityApp\obj\Debug\ZerOneUniversityApp.csproj.GenerateResource.Cache
+D:\Final\ZerOneUniversityApp\ZerOneUniversityApp\obj\Debug\ZerOneUniversityApp.dll
+D:\Final\ZerOneUniversityApp\ZerOneUniversityApp\obj\Debug\ZerOneUniversityApp.pdb
+D:\Final\New folder\ZerOneUniversityApp\ZerOneUniversityApp\bin\ZerOneUniversityApp.dll.config
+D:\Final\New folder\ZerOneUniversityApp\ZerOneUniversityApp\bin\ZerOneUniversityApp.dll
+D:\Final\New folder\ZerOneUniversityApp\ZerOneUniversityApp\bin\ZerOneUniversityApp.pdb
+D:\Final\New folder\ZerOneUniversityApp\ZerOneUniversityApp\bin\Antlr3.Runtime.dll
+D:\Final\New folder\ZerOneUniversityApp\ZerOneUniversityApp\bin\EntityFramework.dll
+D:\Final\New folder\ZerOneUniversityApp\ZerOneUniversityApp\bin\EntityFramework.SqlServer.dll
+D:\Final\New folder\ZerOneUniversityApp\ZerOneUniversityApp\bin\Microsoft.AspNet.Identity.Core.dll
+D:\Final\New folder\ZerOneUniversityApp\ZerOneUniversityApp\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Final\New folder\ZerOneUniversityApp\ZerOneUniversityApp\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\Final\New folder\ZerOneUniversityApp\ZerOneUniversityApp\bin\Microsoft.Owin.dll
+D:\Final\New folder\ZerOneUniversityApp\ZerOneUniversityApp\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\Final\New folder\ZerOneUniversityApp\ZerOneUniversityApp\bin\Microsoft.Owin.Security.Cookies.dll
+D:\Final\New folder\ZerOneUniversityApp\ZerOneUniversityApp\bin\Microsoft.Owin.Security.dll
+D:\Final\New folder\ZerOneUniversityApp\ZerOneUniversityApp\bin\Microsoft.Owin.Security.Facebook.dll
+D:\Final\New folder\ZerOneUniversityApp\ZerOneUniversityApp\bin\Microsoft.Owin.Security.Google.dll
+D:\Final\New folder\ZerOneUniversityApp\ZerOneUniversityApp\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\Final\New folder\ZerOneUniversityApp\ZerOneUniversityApp\bin\Microsoft.Owin.Security.OAuth.dll
+D:\Final\New folder\ZerOneUniversityApp\ZerOneUniversityApp\bin\Microsoft.Owin.Security.Twitter.dll
+D:\Final\New folder\ZerOneUniversityApp\ZerOneUniversityApp\bin\Microsoft.Web.Infrastructure.dll
+D:\Final\New folder\ZerOneUniversityApp\ZerOneUniversityApp\bin\Newtonsoft.Json.dll
+D:\Final\New folder\ZerOneUniversityApp\ZerOneUniversityApp\bin\Owin.dll
+D:\Final\New folder\ZerOneUniversityApp\ZerOneUniversityApp\bin\System.Web.Helpers.dll
+D:\Final\New folder\ZerOneUniversityApp\ZerOneUniversityApp\bin\System.Web.Mvc.dll
+D:\Final\New folder\ZerOneUniversityApp\ZerOneUniversityApp\bin\System.Web.Optimization.dll
+D:\Final\New folder\ZerOneUniversityApp\ZerOneUniversityApp\bin\System.Web.Razor.dll
+D:\Final\New folder\ZerOneUniversityApp\ZerOneUniversityApp\bin\System.Web.WebPages.Deployment.dll
+D:\Final\New folder\ZerOneUniversityApp\ZerOneUniversityApp\bin\System.Web.WebPages.dll
+D:\Final\New folder\ZerOneUniversityApp\ZerOneUniversityApp\bin\System.Web.WebPages.Razor.dll
+D:\Final\New folder\ZerOneUniversityApp\ZerOneUniversityApp\bin\WebGrease.dll
+D:\Final\New folder\ZerOneUniversityApp\ZerOneUniversityApp\bin\EntityFramework.xml
+D:\Final\New folder\ZerOneUniversityApp\ZerOneUniversityApp\bin\EntityFramework.SqlServer.xml
+D:\Final\New folder\ZerOneUniversityApp\ZerOneUniversityApp\bin\System.Web.Helpers.xml
+D:\Final\New folder\ZerOneUniversityApp\ZerOneUniversityApp\bin\System.Web.Mvc.xml
+D:\Final\New folder\ZerOneUniversityApp\ZerOneUniversityApp\bin\System.Web.Optimization.xml
+D:\Final\New folder\ZerOneUniversityApp\ZerOneUniversityApp\bin\System.Web.Razor.xml
+D:\Final\New folder\ZerOneUniversityApp\ZerOneUniversityApp\bin\System.Web.WebPages.xml
+D:\Final\New folder\ZerOneUniversityApp\ZerOneUniversityApp\bin\System.Web.WebPages.Deployment.xml
+D:\Final\New folder\ZerOneUniversityApp\ZerOneUniversityApp\bin\System.Web.WebPages.Razor.xml
+D:\Final\New folder\ZerOneUniversityApp\ZerOneUniversityApp\bin\Newtonsoft.Json.xml
+D:\Final\New folder\ZerOneUniversityApp\ZerOneUniversityApp\bin\Antlr3.Runtime.pdb
+D:\Final\New folder\ZerOneUniversityApp\ZerOneUniversityApp\bin\Microsoft.AspNet.Identity.Core.xml
+D:\Final\New folder\ZerOneUniversityApp\ZerOneUniversityApp\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\Final\New folder\ZerOneUniversityApp\ZerOneUniversityApp\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Final\New folder\ZerOneUniversityApp\ZerOneUniversityApp\bin\Microsoft.Owin.xml
+D:\Final\New folder\ZerOneUniversityApp\ZerOneUniversityApp\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\Final\New folder\ZerOneUniversityApp\ZerOneUniversityApp\bin\Microsoft.Owin.Security.xml
+D:\Final\New folder\ZerOneUniversityApp\ZerOneUniversityApp\bin\Microsoft.Owin.Security.Facebook.xml
+D:\Final\New folder\ZerOneUniversityApp\ZerOneUniversityApp\bin\Microsoft.Owin.Security.Cookies.xml
+D:\Final\New folder\ZerOneUniversityApp\ZerOneUniversityApp\bin\Microsoft.Owin.Security.OAuth.xml
+D:\Final\New folder\ZerOneUniversityApp\ZerOneUniversityApp\bin\Microsoft.Owin.Security.Google.xml
+D:\Final\New folder\ZerOneUniversityApp\ZerOneUniversityApp\bin\Microsoft.Owin.Security.Twitter.xml
+D:\Final\New folder\ZerOneUniversityApp\ZerOneUniversityApp\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\Final\New folder\ZerOneUniversityApp\ZerOneUniversityApp\obj\Debug\ZerOneUniversityApp.csprojResolveAssemblyReference.cache
+D:\Final\New folder\ZerOneUniversityApp\ZerOneUniversityApp\obj\Debug\ZerOneUniversityApp.Migrations.v1departmentstudentadd.resources
+D:\Final\New folder\ZerOneUniversityApp\ZerOneUniversityApp\obj\Debug\ZerOneUniversityApp.Migrations.v2.resources
+D:\Final\New folder\ZerOneUniversityApp\ZerOneUniversityApp\obj\Debug\ZerOneUniversityApp.Migrations.v4.resources
+D:\Final\New folder\ZerOneUniversityApp\ZerOneUniversityApp\obj\Debug\ZerOneUniversityApp.csproj.GenerateResource.Cache
+D:\Final\New folder\ZerOneUniversityApp\ZerOneUniversityApp\obj\Debug\ZerOneUniversityApp.dll
+D:\Final\New folder\ZerOneUniversityApp\ZerOneUniversityApp\obj\Debug\ZerOneUniversityApp.pdb
+F:\Project\ZerOneUniversityApp\ZerOneUniversityApp\obj\Debug\ZerOneUniversityApp.Migrations.v4.resources
+C:\Users\Atik\Desktop\New folder\New File\ZerOneUniversityApp\ZerOneUniversityApp\bin\ZerOneUniversityApp.dll.config
+C:\Users\Atik\Desktop\New folder\New File\ZerOneUniversityApp\ZerOneUniversityApp\bin\ZerOneUniversityApp.dll
+C:\Users\Atik\Desktop\New folder\New File\ZerOneUniversityApp\ZerOneUniversityApp\bin\ZerOneUniversityApp.pdb
+C:\Users\Atik\Desktop\New folder\New File\ZerOneUniversityApp\ZerOneUniversityApp\bin\Antlr3.Runtime.dll
+C:\Users\Atik\Desktop\New folder\New File\ZerOneUniversityApp\ZerOneUniversityApp\bin\EntityFramework.dll
+C:\Users\Atik\Desktop\New folder\New File\ZerOneUniversityApp\ZerOneUniversityApp\bin\EntityFramework.SqlServer.dll
+C:\Users\Atik\Desktop\New folder\New File\ZerOneUniversityApp\ZerOneUniversityApp\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Atik\Desktop\New folder\New File\ZerOneUniversityApp\ZerOneUniversityApp\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Atik\Desktop\New folder\New File\ZerOneUniversityApp\ZerOneUniversityApp\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Atik\Desktop\New folder\New File\ZerOneUniversityApp\ZerOneUniversityApp\bin\Microsoft.Owin.dll
+C:\Users\Atik\Desktop\New folder\New File\ZerOneUniversityApp\ZerOneUniversityApp\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Atik\Desktop\New folder\New File\ZerOneUniversityApp\ZerOneUniversityApp\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Atik\Desktop\New folder\New File\ZerOneUniversityApp\ZerOneUniversityApp\bin\Microsoft.Owin.Security.dll
+C:\Users\Atik\Desktop\New folder\New File\ZerOneUniversityApp\ZerOneUniversityApp\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Atik\Desktop\New folder\New File\ZerOneUniversityApp\ZerOneUniversityApp\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Atik\Desktop\New folder\New File\ZerOneUniversityApp\ZerOneUniversityApp\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Atik\Desktop\New folder\New File\ZerOneUniversityApp\ZerOneUniversityApp\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Atik\Desktop\New folder\New File\ZerOneUniversityApp\ZerOneUniversityApp\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Atik\Desktop\New folder\New File\ZerOneUniversityApp\ZerOneUniversityApp\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Atik\Desktop\New folder\New File\ZerOneUniversityApp\ZerOneUniversityApp\bin\Newtonsoft.Json.dll
+C:\Users\Atik\Desktop\New folder\New File\ZerOneUniversityApp\ZerOneUniversityApp\bin\Owin.dll
+C:\Users\Atik\Desktop\New folder\New File\ZerOneUniversityApp\ZerOneUniversityApp\bin\System.Web.Helpers.dll
+C:\Users\Atik\Desktop\New folder\New File\ZerOneUniversityApp\ZerOneUniversityApp\bin\System.Web.Mvc.dll
+C:\Users\Atik\Desktop\New folder\New File\ZerOneUniversityApp\ZerOneUniversityApp\bin\System.Web.Optimization.dll
+C:\Users\Atik\Desktop\New folder\New File\ZerOneUniversityApp\ZerOneUniversityApp\bin\System.Web.Razor.dll
+C:\Users\Atik\Desktop\New folder\New File\ZerOneUniversityApp\ZerOneUniversityApp\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Atik\Desktop\New folder\New File\ZerOneUniversityApp\ZerOneUniversityApp\bin\System.Web.WebPages.dll
+C:\Users\Atik\Desktop\New folder\New File\ZerOneUniversityApp\ZerOneUniversityApp\bin\System.Web.WebPages.Razor.dll
+C:\Users\Atik\Desktop\New folder\New File\ZerOneUniversityApp\ZerOneUniversityApp\bin\WebGrease.dll
+C:\Users\Atik\Desktop\New folder\New File\ZerOneUniversityApp\ZerOneUniversityApp\bin\EntityFramework.xml
+C:\Users\Atik\Desktop\New folder\New File\ZerOneUniversityApp\ZerOneUniversityApp\bin\EntityFramework.SqlServer.xml
+C:\Users\Atik\Desktop\New folder\New File\ZerOneUniversityApp\ZerOneUniversityApp\bin\System.Web.Helpers.xml
+C:\Users\Atik\Desktop\New folder\New File\ZerOneUniversityApp\ZerOneUniversityApp\bin\System.Web.Mvc.xml
+C:\Users\Atik\Desktop\New folder\New File\ZerOneUniversityApp\ZerOneUniversityApp\bin\System.Web.Optimization.xml
+C:\Users\Atik\Desktop\New folder\New File\ZerOneUniversityApp\ZerOneUniversityApp\bin\System.Web.Razor.xml
+C:\Users\Atik\Desktop\New folder\New File\ZerOneUniversityApp\ZerOneUniversityApp\bin\System.Web.WebPages.xml
+C:\Users\Atik\Desktop\New folder\New File\ZerOneUniversityApp\ZerOneUniversityApp\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Atik\Desktop\New folder\New File\ZerOneUniversityApp\ZerOneUniversityApp\bin\System.Web.WebPages.Razor.xml
+C:\Users\Atik\Desktop\New folder\New File\ZerOneUniversityApp\ZerOneUniversityApp\bin\Newtonsoft.Json.xml
+C:\Users\Atik\Desktop\New folder\New File\ZerOneUniversityApp\ZerOneUniversityApp\bin\Antlr3.Runtime.pdb
+C:\Users\Atik\Desktop\New folder\New File\ZerOneUniversityApp\ZerOneUniversityApp\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Atik\Desktop\New folder\New File\ZerOneUniversityApp\ZerOneUniversityApp\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Atik\Desktop\New folder\New File\ZerOneUniversityApp\ZerOneUniversityApp\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Atik\Desktop\New folder\New File\ZerOneUniversityApp\ZerOneUniversityApp\bin\Microsoft.Owin.xml
+C:\Users\Atik\Desktop\New folder\New File\ZerOneUniversityApp\ZerOneUniversityApp\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Atik\Desktop\New folder\New File\ZerOneUniversityApp\ZerOneUniversityApp\bin\Microsoft.Owin.Security.xml
+C:\Users\Atik\Desktop\New folder\New File\ZerOneUniversityApp\ZerOneUniversityApp\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Atik\Desktop\New folder\New File\ZerOneUniversityApp\ZerOneUniversityApp\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Atik\Desktop\New folder\New File\ZerOneUniversityApp\ZerOneUniversityApp\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Atik\Desktop\New folder\New File\ZerOneUniversityApp\ZerOneUniversityApp\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Atik\Desktop\New folder\New File\ZerOneUniversityApp\ZerOneUniversityApp\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Atik\Desktop\New folder\New File\ZerOneUniversityApp\ZerOneUniversityApp\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Atik\Desktop\New folder\New File\ZerOneUniversityApp\ZerOneUniversityApp\obj\Debug\ZerOneUniversityApp.csprojResolveAssemblyReference.cache
+C:\Users\Atik\Desktop\New folder\New File\ZerOneUniversityApp\ZerOneUniversityApp\obj\Debug\ZerOneUniversityApp.Migrations.v1departmentstudentadd.resources
+C:\Users\Atik\Desktop\New folder\New File\ZerOneUniversityApp\ZerOneUniversityApp\obj\Debug\ZerOneUniversityApp.csproj.GenerateResource.Cache
+C:\Users\Atik\Desktop\New folder\New File\ZerOneUniversityApp\ZerOneUniversityApp\obj\Debug\ZerOneUniversityApp.dll
+C:\Users\Atik\Desktop\New folder\New File\ZerOneUniversityApp\ZerOneUniversityApp\obj\Debug\ZerOneUniversityApp.pdb
+C:\Users\Atik\Desktop\New folder\New File\ZerOneUniversityApp\ZerOneUniversityApp\obj\Debug\ZerOneUniversityApp.Migrations.classroomallocation.resources
+F:\Project\ZerOneUniversityApp -13-2-18\ZerOneUniversityApp\bin\ZerOneUniversityApp.dll.config
+F:\Project\ZerOneUniversityApp -13-2-18\ZerOneUniversityApp\bin\ZerOneUniversityApp.dll
+F:\Project\ZerOneUniversityApp -13-2-18\ZerOneUniversityApp\bin\ZerOneUniversityApp.pdb
+F:\Project\ZerOneUniversityApp -13-2-18\ZerOneUniversityApp\bin\Antlr3.Runtime.dll
+F:\Project\ZerOneUniversityApp -13-2-18\ZerOneUniversityApp\bin\EntityFramework.dll
+F:\Project\ZerOneUniversityApp -13-2-18\ZerOneUniversityApp\bin\EntityFramework.SqlServer.dll
+F:\Project\ZerOneUniversityApp -13-2-18\ZerOneUniversityApp\bin\Microsoft.AspNet.Identity.Core.dll
+F:\Project\ZerOneUniversityApp -13-2-18\ZerOneUniversityApp\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+F:\Project\ZerOneUniversityApp -13-2-18\ZerOneUniversityApp\bin\Microsoft.AspNet.Identity.Owin.dll
+F:\Project\ZerOneUniversityApp -13-2-18\ZerOneUniversityApp\bin\Microsoft.Owin.dll
+F:\Project\ZerOneUniversityApp -13-2-18\ZerOneUniversityApp\bin\Microsoft.Owin.Host.SystemWeb.dll
+F:\Project\ZerOneUniversityApp -13-2-18\ZerOneUniversityApp\bin\Microsoft.Owin.Security.Cookies.dll
+F:\Project\ZerOneUniversityApp -13-2-18\ZerOneUniversityApp\bin\Microsoft.Owin.Security.dll
+F:\Project\ZerOneUniversityApp -13-2-18\ZerOneUniversityApp\bin\Microsoft.Owin.Security.Facebook.dll
+F:\Project\ZerOneUniversityApp -13-2-18\ZerOneUniversityApp\bin\Microsoft.Owin.Security.Google.dll
+F:\Project\ZerOneUniversityApp -13-2-18\ZerOneUniversityApp\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+F:\Project\ZerOneUniversityApp -13-2-18\ZerOneUniversityApp\bin\Microsoft.Owin.Security.OAuth.dll
+F:\Project\ZerOneUniversityApp -13-2-18\ZerOneUniversityApp\bin\Microsoft.Owin.Security.Twitter.dll
+F:\Project\ZerOneUniversityApp -13-2-18\ZerOneUniversityApp\bin\Microsoft.Web.Infrastructure.dll
+F:\Project\ZerOneUniversityApp -13-2-18\ZerOneUniversityApp\bin\Newtonsoft.Json.dll
+F:\Project\ZerOneUniversityApp -13-2-18\ZerOneUniversityApp\bin\Owin.dll
+F:\Project\ZerOneUniversityApp -13-2-18\ZerOneUniversityApp\bin\System.Web.Helpers.dll
+F:\Project\ZerOneUniversityApp -13-2-18\ZerOneUniversityApp\bin\System.Web.Mvc.dll
+F:\Project\ZerOneUniversityApp -13-2-18\ZerOneUniversityApp\bin\System.Web.Optimization.dll
+F:\Project\ZerOneUniversityApp -13-2-18\ZerOneUniversityApp\bin\System.Web.Razor.dll
+F:\Project\ZerOneUniversityApp -13-2-18\ZerOneUniversityApp\bin\System.Web.WebPages.Deployment.dll
+F:\Project\ZerOneUniversityApp -13-2-18\ZerOneUniversityApp\bin\System.Web.WebPages.dll
+F:\Project\ZerOneUniversityApp -13-2-18\ZerOneUniversityApp\bin\System.Web.WebPages.Razor.dll
+F:\Project\ZerOneUniversityApp -13-2-18\ZerOneUniversityApp\bin\WebGrease.dll
+F:\Project\ZerOneUniversityApp -13-2-18\ZerOneUniversityApp\bin\EntityFramework.xml
+F:\Project\ZerOneUniversityApp -13-2-18\ZerOneUniversityApp\bin\EntityFramework.SqlServer.xml
+F:\Project\ZerOneUniversityApp -13-2-18\ZerOneUniversityApp\bin\System.Web.Helpers.xml
+F:\Project\ZerOneUniversityApp -13-2-18\ZerOneUniversityApp\bin\System.Web.Mvc.xml
+F:\Project\ZerOneUniversityApp -13-2-18\ZerOneUniversityApp\bin\System.Web.Optimization.xml
+F:\Project\ZerOneUniversityApp -13-2-18\ZerOneUniversityApp\bin\System.Web.Razor.xml
+F:\Project\ZerOneUniversityApp -13-2-18\ZerOneUniversityApp\bin\System.Web.WebPages.xml
+F:\Project\ZerOneUniversityApp -13-2-18\ZerOneUniversityApp\bin\System.Web.WebPages.Deployment.xml
+F:\Project\ZerOneUniversityApp -13-2-18\ZerOneUniversityApp\bin\System.Web.WebPages.Razor.xml
+F:\Project\ZerOneUniversityApp -13-2-18\ZerOneUniversityApp\bin\Newtonsoft.Json.xml
+F:\Project\ZerOneUniversityApp -13-2-18\ZerOneUniversityApp\bin\Antlr3.Runtime.pdb
+F:\Project\ZerOneUniversityApp -13-2-18\ZerOneUniversityApp\bin\Microsoft.AspNet.Identity.Core.xml
+F:\Project\ZerOneUniversityApp -13-2-18\ZerOneUniversityApp\bin\Microsoft.AspNet.Identity.Owin.xml
+F:\Project\ZerOneUniversityApp -13-2-18\ZerOneUniversityApp\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+F:\Project\ZerOneUniversityApp -13-2-18\ZerOneUniversityApp\bin\Microsoft.Owin.xml
+F:\Project\ZerOneUniversityApp -13-2-18\ZerOneUniversityApp\bin\Microsoft.Owin.Host.SystemWeb.xml
+F:\Project\ZerOneUniversityApp -13-2-18\ZerOneUniversityApp\bin\Microsoft.Owin.Security.xml
+F:\Project\ZerOneUniversityApp -13-2-18\ZerOneUniversityApp\bin\Microsoft.Owin.Security.Facebook.xml
+F:\Project\ZerOneUniversityApp -13-2-18\ZerOneUniversityApp\bin\Microsoft.Owin.Security.Cookies.xml
+F:\Project\ZerOneUniversityApp -13-2-18\ZerOneUniversityApp\bin\Microsoft.Owin.Security.OAuth.xml
+F:\Project\ZerOneUniversityApp -13-2-18\ZerOneUniversityApp\bin\Microsoft.Owin.Security.Google.xml
+F:\Project\ZerOneUniversityApp -13-2-18\ZerOneUniversityApp\bin\Microsoft.Owin.Security.Twitter.xml
+F:\Project\ZerOneUniversityApp -13-2-18\ZerOneUniversityApp\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+F:\Project\ZerOneUniversityApp -13-2-18\ZerOneUniversityApp\obj\Debug\ZerOneUniversityApp.csprojResolveAssemblyReference.cache
+F:\Project\ZerOneUniversityApp -13-2-18\ZerOneUniversityApp\obj\Debug\ZerOneUniversityApp.Migrations.v1departmentstudentadd.resources
+F:\Project\ZerOneUniversityApp -13-2-18\ZerOneUniversityApp\obj\Debug\ZerOneUniversityApp.Migrations.classroomallocation.resources
+F:\Project\ZerOneUniversityApp -13-2-18\ZerOneUniversityApp\obj\Debug\ZerOneUniversityApp.csproj.GenerateResource.Cache
+F:\Project\ZerOneUniversityApp -13-2-18\ZerOneUniversityApp\obj\Debug\ZerOneUniversityApp.dll
+F:\Project\ZerOneUniversityApp -13-2-18\ZerOneUniversityApp\obj\Debug\ZerOneUniversityApp.pdb
+F:\Project\update  backup- 10\ZerOneUniversityApp -13-2-18\ZerOneUniversityApp\bin\ZerOneUniversityApp.dll.config
+F:\Project\update  backup- 10\ZerOneUniversityApp -13-2-18\ZerOneUniversityApp\bin\ZerOneUniversityApp.dll
+F:\Project\update  backup- 10\ZerOneUniversityApp -13-2-18\ZerOneUniversityApp\bin\ZerOneUniversityApp.pdb
+F:\Project\update  backup- 10\ZerOneUniversityApp -13-2-18\ZerOneUniversityApp\bin\Antlr3.Runtime.dll
+F:\Project\update  backup- 10\ZerOneUniversityApp -13-2-18\ZerOneUniversityApp\bin\EntityFramework.dll
+F:\Project\update  backup- 10\ZerOneUniversityApp -13-2-18\ZerOneUniversityApp\bin\EntityFramework.SqlServer.dll
+F:\Project\update  backup- 10\ZerOneUniversityApp -13-2-18\ZerOneUniversityApp\bin\Microsoft.AspNet.Identity.Core.dll
+F:\Project\update  backup- 10\ZerOneUniversityApp -13-2-18\ZerOneUniversityApp\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+F:\Project\update  backup- 10\ZerOneUniversityApp -13-2-18\ZerOneUniversityApp\bin\Microsoft.AspNet.Identity.Owin.dll
+F:\Project\update  backup- 10\ZerOneUniversityApp -13-2-18\ZerOneUniversityApp\bin\Microsoft.Owin.dll
+F:\Project\update  backup- 10\ZerOneUniversityApp -13-2-18\ZerOneUniversityApp\bin\Microsoft.Owin.Host.SystemWeb.dll
+F:\Project\update  backup- 10\ZerOneUniversityApp -13-2-18\ZerOneUniversityApp\bin\Microsoft.Owin.Security.Cookies.dll
+F:\Project\update  backup- 10\ZerOneUniversityApp -13-2-18\ZerOneUniversityApp\bin\Microsoft.Owin.Security.dll
+F:\Project\update  backup- 10\ZerOneUniversityApp -13-2-18\ZerOneUniversityApp\bin\Microsoft.Owin.Security.Facebook.dll
+F:\Project\update  backup- 10\ZerOneUniversityApp -13-2-18\ZerOneUniversityApp\bin\Microsoft.Owin.Security.Google.dll
+F:\Project\update  backup- 10\ZerOneUniversityApp -13-2-18\ZerOneUniversityApp\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+F:\Project\update  backup- 10\ZerOneUniversityApp -13-2-18\ZerOneUniversityApp\bin\Microsoft.Owin.Security.OAuth.dll
+F:\Project\update  backup- 10\ZerOneUniversityApp -13-2-18\ZerOneUniversityApp\bin\Microsoft.Owin.Security.Twitter.dll
+F:\Project\update  backup- 10\ZerOneUniversityApp -13-2-18\ZerOneUniversityApp\bin\Microsoft.Web.Infrastructure.dll
+F:\Project\update  backup- 10\ZerOneUniversityApp -13-2-18\ZerOneUniversityApp\bin\Newtonsoft.Json.dll
+F:\Project\update  backup- 10\ZerOneUniversityApp -13-2-18\ZerOneUniversityApp\bin\Owin.dll
+F:\Project\update  backup- 10\ZerOneUniversityApp -13-2-18\ZerOneUniversityApp\bin\System.Web.Helpers.dll
+F:\Project\update  backup- 10\ZerOneUniversityApp -13-2-18\ZerOneUniversityApp\bin\System.Web.Mvc.dll
+F:\Project\update  backup- 10\ZerOneUniversityApp -13-2-18\ZerOneUniversityApp\bin\System.Web.Optimization.dll
+F:\Project\update  backup- 10\ZerOneUniversityApp -13-2-18\ZerOneUniversityApp\bin\System.Web.Razor.dll
+F:\Project\update  backup- 10\ZerOneUniversityApp -13-2-18\ZerOneUniversityApp\bin\System.Web.WebPages.Deployment.dll
+F:\Project\update  backup- 10\ZerOneUniversityApp -13-2-18\ZerOneUniversityApp\bin\System.Web.WebPages.dll
+F:\Project\update  backup- 10\ZerOneUniversityApp -13-2-18\ZerOneUniversityApp\bin\System.Web.WebPages.Razor.dll
+F:\Project\update  backup- 10\ZerOneUniversityApp -13-2-18\ZerOneUniversityApp\bin\WebGrease.dll
+F:\Project\update  backup- 10\ZerOneUniversityApp -13-2-18\ZerOneUniversityApp\bin\EntityFramework.xml
+F:\Project\update  backup- 10\ZerOneUniversityApp -13-2-18\ZerOneUniversityApp\bin\EntityFramework.SqlServer.xml
+F:\Project\update  backup- 10\ZerOneUniversityApp -13-2-18\ZerOneUniversityApp\bin\System.Web.Helpers.xml
+F:\Project\update  backup- 10\ZerOneUniversityApp -13-2-18\ZerOneUniversityApp\bin\System.Web.Mvc.xml
+F:\Project\update  backup- 10\ZerOneUniversityApp -13-2-18\ZerOneUniversityApp\bin\System.Web.Optimization.xml
+F:\Project\update  backup- 10\ZerOneUniversityApp -13-2-18\ZerOneUniversityApp\bin\System.Web.Razor.xml
+F:\Project\update  backup- 10\ZerOneUniversityApp -13-2-18\ZerOneUniversityApp\bin\System.Web.WebPages.xml
+F:\Project\update  backup- 10\ZerOneUniversityApp -13-2-18\ZerOneUniversityApp\bin\System.Web.WebPages.Deployment.xml
+F:\Project\update  backup- 10\ZerOneUniversityApp -13-2-18\ZerOneUniversityApp\bin\System.Web.WebPages.Razor.xml
+F:\Project\update  backup- 10\ZerOneUniversityApp -13-2-18\ZerOneUniversityApp\bin\Newtonsoft.Json.xml
+F:\Project\update  backup- 10\ZerOneUniversityApp -13-2-18\ZerOneUniversityApp\bin\Antlr3.Runtime.pdb
+F:\Project\update  backup- 10\ZerOneUniversityApp -13-2-18\ZerOneUniversityApp\bin\Microsoft.AspNet.Identity.Core.xml
+F:\Project\update  backup- 10\ZerOneUniversityApp -13-2-18\ZerOneUniversityApp\bin\Microsoft.AspNet.Identity.Owin.xml
+F:\Project\update  backup- 10\ZerOneUniversityApp -13-2-18\ZerOneUniversityApp\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+F:\Project\update  backup- 10\ZerOneUniversityApp -13-2-18\ZerOneUniversityApp\bin\Microsoft.Owin.xml
+F:\Project\update  backup- 10\ZerOneUniversityApp -13-2-18\ZerOneUniversityApp\bin\Microsoft.Owin.Host.SystemWeb.xml
+F:\Project\update  backup- 10\ZerOneUniversityApp -13-2-18\ZerOneUniversityApp\bin\Microsoft.Owin.Security.xml
+F:\Project\update  backup- 10\ZerOneUniversityApp -13-2-18\ZerOneUniversityApp\bin\Microsoft.Owin.Security.Facebook.xml
+F:\Project\update  backup- 10\ZerOneUniversityApp -13-2-18\ZerOneUniversityApp\bin\Microsoft.Owin.Security.Cookies.xml
+F:\Project\update  backup- 10\ZerOneUniversityApp -13-2-18\ZerOneUniversityApp\bin\Microsoft.Owin.Security.OAuth.xml
+F:\Project\update  backup- 10\ZerOneUniversityApp -13-2-18\ZerOneUniversityApp\bin\Microsoft.Owin.Security.Google.xml
+F:\Project\update  backup- 10\ZerOneUniversityApp -13-2-18\ZerOneUniversityApp\bin\Microsoft.Owin.Security.Twitter.xml
+F:\Project\update  backup- 10\ZerOneUniversityApp -13-2-18\ZerOneUniversityApp\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+F:\Project\update  backup- 10\ZerOneUniversityApp -13-2-18\ZerOneUniversityApp\obj\Debug\ZerOneUniversityApp.csprojResolveAssemblyReference.cache
+F:\Project\update  backup- 10\ZerOneUniversityApp -13-2-18\ZerOneUniversityApp\obj\Debug\ZerOneUniversityApp.Migrations.v1departmentstudentadd.resources
+F:\Project\update  backup- 10\ZerOneUniversityApp -13-2-18\ZerOneUniversityApp\obj\Debug\ZerOneUniversityApp.Migrations.classroomallocation.resources
+F:\Project\update  backup- 10\ZerOneUniversityApp -13-2-18\ZerOneUniversityApp\obj\Debug\ZerOneUniversityApp.csproj.GenerateResource.Cache
+F:\Project\update  backup- 10\ZerOneUniversityApp -13-2-18\ZerOneUniversityApp\obj\Debug\ZerOneUniversityApp.dll
+F:\Project\update  backup- 10\ZerOneUniversityApp -13-2-18\ZerOneUniversityApp\obj\Debug\ZerOneUniversityApp.pdb
+C:\Users\mamun14290\Desktop\New folder\ZerOneUniversityApp -13-2-18\ZerOneUniversityApp\bin\ZerOneUniversityApp.dll.config
+C:\Users\mamun14290\Desktop\New folder\ZerOneUniversityApp -13-2-18\ZerOneUniversityApp\bin\ZerOneUniversityApp.dll
+C:\Users\mamun14290\Desktop\New folder\ZerOneUniversityApp -13-2-18\ZerOneUniversityApp\bin\ZerOneUniversityApp.pdb
+C:\Users\mamun14290\Desktop\New folder\ZerOneUniversityApp -13-2-18\ZerOneUniversityApp\bin\Antlr3.Runtime.dll
+C:\Users\mamun14290\Desktop\New folder\ZerOneUniversityApp -13-2-18\ZerOneUniversityApp\bin\EntityFramework.dll
+C:\Users\mamun14290\Desktop\New folder\ZerOneUniversityApp -13-2-18\ZerOneUniversityApp\bin\EntityFramework.SqlServer.dll
+C:\Users\mamun14290\Desktop\New folder\ZerOneUniversityApp -13-2-18\ZerOneUniversityApp\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\mamun14290\Desktop\New folder\ZerOneUniversityApp -13-2-18\ZerOneUniversityApp\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\mamun14290\Desktop\New folder\ZerOneUniversityApp -13-2-18\ZerOneUniversityApp\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\mamun14290\Desktop\New folder\ZerOneUniversityApp -13-2-18\ZerOneUniversityApp\bin\Microsoft.Owin.dll
+C:\Users\mamun14290\Desktop\New folder\ZerOneUniversityApp -13-2-18\ZerOneUniversityApp\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\mamun14290\Desktop\New folder\ZerOneUniversityApp -13-2-18\ZerOneUniversityApp\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\mamun14290\Desktop\New folder\ZerOneUniversityApp -13-2-18\ZerOneUniversityApp\bin\Microsoft.Owin.Security.dll
+C:\Users\mamun14290\Desktop\New folder\ZerOneUniversityApp -13-2-18\ZerOneUniversityApp\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\mamun14290\Desktop\New folder\ZerOneUniversityApp -13-2-18\ZerOneUniversityApp\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\mamun14290\Desktop\New folder\ZerOneUniversityApp -13-2-18\ZerOneUniversityApp\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\mamun14290\Desktop\New folder\ZerOneUniversityApp -13-2-18\ZerOneUniversityApp\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\mamun14290\Desktop\New folder\ZerOneUniversityApp -13-2-18\ZerOneUniversityApp\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\mamun14290\Desktop\New folder\ZerOneUniversityApp -13-2-18\ZerOneUniversityApp\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\mamun14290\Desktop\New folder\ZerOneUniversityApp -13-2-18\ZerOneUniversityApp\bin\Newtonsoft.Json.dll
+C:\Users\mamun14290\Desktop\New folder\ZerOneUniversityApp -13-2-18\ZerOneUniversityApp\bin\Owin.dll
+C:\Users\mamun14290\Desktop\New folder\ZerOneUniversityApp -13-2-18\ZerOneUniversityApp\bin\System.Web.Helpers.dll
+C:\Users\mamun14290\Desktop\New folder\ZerOneUniversityApp -13-2-18\ZerOneUniversityApp\bin\System.Web.Mvc.dll
+C:\Users\mamun14290\Desktop\New folder\ZerOneUniversityApp -13-2-18\ZerOneUniversityApp\bin\System.Web.Optimization.dll
+C:\Users\mamun14290\Desktop\New folder\ZerOneUniversityApp -13-2-18\ZerOneUniversityApp\bin\System.Web.Razor.dll
+C:\Users\mamun14290\Desktop\New folder\ZerOneUniversityApp -13-2-18\ZerOneUniversityApp\bin\System.Web.WebPages.Deployment.dll
+C:\Users\mamun14290\Desktop\New folder\ZerOneUniversityApp -13-2-18\ZerOneUniversityApp\bin\System.Web.WebPages.dll
+C:\Users\mamun14290\Desktop\New folder\ZerOneUniversityApp -13-2-18\ZerOneUniversityApp\bin\System.Web.WebPages.Razor.dll
+C:\Users\mamun14290\Desktop\New folder\ZerOneUniversityApp -13-2-18\ZerOneUniversityApp\bin\WebGrease.dll
+C:\Users\mamun14290\Desktop\New folder\ZerOneUniversityApp -13-2-18\ZerOneUniversityApp\bin\EntityFramework.xml
+C:\Users\mamun14290\Desktop\New folder\ZerOneUniversityApp -13-2-18\ZerOneUniversityApp\bin\EntityFramework.SqlServer.xml
+C:\Users\mamun14290\Desktop\New folder\ZerOneUniversityApp -13-2-18\ZerOneUniversityApp\bin\System.Web.Helpers.xml
+C:\Users\mamun14290\Desktop\New folder\ZerOneUniversityApp -13-2-18\ZerOneUniversityApp\bin\System.Web.Mvc.xml
+C:\Users\mamun14290\Desktop\New folder\ZerOneUniversityApp -13-2-18\ZerOneUniversityApp\bin\System.Web.Optimization.xml
+C:\Users\mamun14290\Desktop\New folder\ZerOneUniversityApp -13-2-18\ZerOneUniversityApp\bin\System.Web.Razor.xml
+C:\Users\mamun14290\Desktop\New folder\ZerOneUniversityApp -13-2-18\ZerOneUniversityApp\bin\System.Web.WebPages.xml
+C:\Users\mamun14290\Desktop\New folder\ZerOneUniversityApp -13-2-18\ZerOneUniversityApp\bin\System.Web.WebPages.Deployment.xml
+C:\Users\mamun14290\Desktop\New folder\ZerOneUniversityApp -13-2-18\ZerOneUniversityApp\bin\System.Web.WebPages.Razor.xml
+C:\Users\mamun14290\Desktop\New folder\ZerOneUniversityApp -13-2-18\ZerOneUniversityApp\bin\Newtonsoft.Json.xml
+C:\Users\mamun14290\Desktop\New folder\ZerOneUniversityApp -13-2-18\ZerOneUniversityApp\bin\Antlr3.Runtime.pdb
+C:\Users\mamun14290\Desktop\New folder\ZerOneUniversityApp -13-2-18\ZerOneUniversityApp\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\mamun14290\Desktop\New folder\ZerOneUniversityApp -13-2-18\ZerOneUniversityApp\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\mamun14290\Desktop\New folder\ZerOneUniversityApp -13-2-18\ZerOneUniversityApp\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\mamun14290\Desktop\New folder\ZerOneUniversityApp -13-2-18\ZerOneUniversityApp\bin\Microsoft.Owin.xml
+C:\Users\mamun14290\Desktop\New folder\ZerOneUniversityApp -13-2-18\ZerOneUniversityApp\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\mamun14290\Desktop\New folder\ZerOneUniversityApp -13-2-18\ZerOneUniversityApp\bin\Microsoft.Owin.Security.xml
+C:\Users\mamun14290\Desktop\New folder\ZerOneUniversityApp -13-2-18\ZerOneUniversityApp\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\mamun14290\Desktop\New folder\ZerOneUniversityApp -13-2-18\ZerOneUniversityApp\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\mamun14290\Desktop\New folder\ZerOneUniversityApp -13-2-18\ZerOneUniversityApp\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\mamun14290\Desktop\New folder\ZerOneUniversityApp -13-2-18\ZerOneUniversityApp\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\mamun14290\Desktop\New folder\ZerOneUniversityApp -13-2-18\ZerOneUniversityApp\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\mamun14290\Desktop\New folder\ZerOneUniversityApp -13-2-18\ZerOneUniversityApp\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\mamun14290\Desktop\New folder\ZerOneUniversityApp -13-2-18\ZerOneUniversityApp\obj\Debug\ZerOneUniversityApp.csprojResolveAssemblyReference.cache
+C:\Users\mamun14290\Desktop\New folder\ZerOneUniversityApp -13-2-18\ZerOneUniversityApp\obj\Debug\ZerOneUniversityApp.Migrations.v1departmentstudentadd.resources
+C:\Users\mamun14290\Desktop\New folder\ZerOneUniversityApp -13-2-18\ZerOneUniversityApp\obj\Debug\ZerOneUniversityApp.Migrations.classroomallocation.resources
+C:\Users\mamun14290\Desktop\New folder\ZerOneUniversityApp -13-2-18\ZerOneUniversityApp\obj\Debug\ZerOneUniversityApp.csproj.GenerateResource.Cache
+C:\Users\mamun14290\Desktop\New folder\ZerOneUniversityApp -13-2-18\ZerOneUniversityApp\obj\Debug\ZerOneUniversityApp.dll
+C:\Users\mamun14290\Desktop\New folder\ZerOneUniversityApp -13-2-18\ZerOneUniversityApp\obj\Debug\ZerOneUniversityApp.pdb

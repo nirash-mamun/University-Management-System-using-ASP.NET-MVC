@@ -1,0 +1,76 @@
+﻿@model ZerOneUniversityApp.Models.ClassRoomAllocation
+@{
+    ViewBag.Title = "UnallocatedClassRoon";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2 class="text-center">Unallocated Class Roon</h2>
+
+@{
+    ViewBag.Title = "UnallocatedClassRoom";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<hr />
+<br />
+<br />
+<br />
+
+
+
+@using (Html.BeginForm())
+{
+      <div class="form-group" style="text-align: center">
+        <div>
+            <p class="text-center"><label id="Message" style="color: green"></label></p>
+        </div>
+    </div>
+    <hr/>
+    @Html.AntiForgeryToken()
+    <div class="form-group" style="text-align: center">
+        <input type="button" value="Unallocate Class Rooms" id="unAllocateRooms" class="btn btn-primary btn-lg" />
+    </div>
+
+  
+    <hr />
+
+}
+@section Scripts{
+    <script src="~/Scripts/jquery-2.2.4.min.js"></script>
+    <script src="~/Scripts/jquery.validate.min.js"></script>
+    <script src="~/Scripts/jquery.validate.unobtrusive.min.js"></script>
+@Scripts.Render("~/bundles/jqueryval")
+    <script>
+        $(document).ready(function() {
+            $("#unAllocateRooms").click(function() {
+
+                var decision = confirm("Are you Want to unallocate all classrooms ?");
+                if (decision == true) {
+
+                    var jsonData = { decision: decision };
+                    $.ajax({
+                        type: "POST",
+                        url: '@Url.Action("UnAllocateAllRooms", "ClassRoomAllocation")',
+                        contentType: "application/json; charset=utf-8",
+                        data: JSON.stringify(jsonData),
+                        dataType: "json",
+                        success: function(data) {
+
+                            if (data == true) {
+
+                                $("#Message").text("All Rooms Are Unallocated Successffully!");
+                            } else {
+
+                                $("#Message").text("No Rooms Are Available to Unallocate !");
+                            }
+                        },
+                    });
+
+                }
+                return false;
+
+            });
+        });
+
+    </script>
+}

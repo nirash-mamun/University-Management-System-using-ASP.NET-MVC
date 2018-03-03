@@ -1,0 +1,93 @@
+﻿@using System.Activities.Expressions
+@model ZerOneUniversityApp.Models.Department
+
+@{
+    ViewBag.Title = "Save";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+<html>
+    <head>
+        <title>
+        </title>
+    </head>
+    <body>
+
+        <h2 class="text-center">Save Department</h2>
+        <br/>
+        <br/>
+        <br/>
+        <br/>
+        <br />
+        <hr/>
+
+        <div align="center">
+            @if (@ViewBag.Message != null)
+            {
+                <span  class="alert alert-success text-center" id="success-alert">@ViewBag.Message</span>
+            }
+        </div>
+        <div class="container">
+            <fieldset>
+                @using (Html.BeginForm("Save", "Department", FormMethod.Post, new { id = "SaveDepartmentForm" }))
+                {
+                    @Html.ValidationSummary(true)
+                
+                
+                    <div class="form-horizontal">    
+                        <div class="form-group container">
+                            @Html.LabelFor(model => model.DeptCode, new { @class = "control-label col-md-2" })
+                            <div class="col-md-10">
+                                @Html.TextBoxFor(model => model.DeptCode, new{@class ="form-control"})
+                                @Html.ValidationMessageFor(model => model.DeptCode)
+                            </div>
+                        </div>
+
+                        <div class="form-group container">
+                            @Html.LabelFor(model => model.DeptName, new { @class = "control-label col-md-2" })
+                            <div class="col-md-10">
+                                @Html.TextBoxFor(model => model.DeptName, new{@class = "form-control"})
+                                @Html.ValidationMessageFor(model => model.DeptName)
+                            </div>
+                        </div>
+
+                        <div class="form-group container">
+                            <div class="col-md-offset-2 col-md-10">
+                                <input type="submit" value="Save Department" class="btn btn-primary btn-sm" />
+                            </div>
+                        </div>
+                    </div>
+                }
+
+                <div class="form-group">
+                    <div class="col-md-offset-2 col-md-10">
+                        <label id="successMessage" style="color: green;"></label>
+                        <label id="errorMessage" style="color: red;"></label>
+                    </div>
+                </div>
+            </fieldset>
+        </div>
+
+        <script src="~/Scripts/jquery-2.2.4.js"></script>
+        <script src="~/Scripts/jquery.validate.min.js"></script>
+        <script src="~/Scripts/jquery.validate.unobtrusive.min.js"></script>
+        <script>
+
+            $(document).ready(function () {
+
+                $("#success-alert").fadeTo(2000, 500).slideUp(500, function () {
+                    $("#success-alert").alert('close');
+                });
+
+                $("#submit").click(function () {
+
+                    //$("#deptCode").val("");
+                    //$("#deptName").val("");
+                    $("#deptCode").text("");
+                    $("#deptName").text("");
+
+                });
+            });
+
+        </script>
+    </body>
+</html>
